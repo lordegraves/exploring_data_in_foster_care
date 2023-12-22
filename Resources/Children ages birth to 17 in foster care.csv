@@ -1,0 +1,2309 @@
+﻿LocationType,Location,TimeFrame,DataFormat,Data
+Nation,United States,2000,Number,543035
+State,Alabama,2000,Number,5611
+State,Alaska,2000,Number,2192
+State,Arizona,2000,Number,6470
+State,Arkansas,2000,Number,3043
+State,California,2000,Number,112664
+State,Colorado,2000,Number,7517
+State,Connecticut,2000,Number,6980
+State,Delaware,2000,Number,1096
+City,District of Columbia,2000,Number,3018
+State,Florida,2000,Number,36571
+State,Georgia,2000,Number,11184
+State,Hawaii,2000,Number,2401
+State,Idaho,2000,Number,1015
+State,Illinois,2000,Number,29368
+State,Indiana,2000,Number,7475
+State,Iowa,2000,Number,5067
+State,Kansas,2000,Number,6548
+State,Kentucky,2000,Number,5996
+State,Louisiana,2000,Number,5406
+State,Maine,2000,Number,3189
+State,Maryland,2000,Number,13093
+State,Massachusetts,2000,Number,11576
+State,Michigan,2000,Number,19819
+State,Minnesota,2000,Number,8478
+State,Mississippi,2000,Number,3273
+State,Missouri,2000,Number,13171
+State,Montana,2000,Number,2175
+State,Nebraska,2000,Number,5657
+State,Nevada,2000,Number,1611
+State,New Hampshire,2000,Number,1310
+State,New Jersey,2000,Number,9771
+State,New Mexico,2000,Number,1911
+State,New York,2000,Number,47082
+State,North Carolina,2000,Number,10831
+State,North Dakota,2000,Number,1129
+State,Ohio,2000,Number,20274
+State,Oklahoma,2000,Number,8369
+State,Oregon,2000,Number,9192
+State,Pennsylvania,2000,Number,21576
+State,Rhode Island,2000,Number,2289
+State,South Carolina,2000,Number,4523
+State,South Dakota,2000,Number,1210
+State,Tennessee,2000,Number,10131
+State,Texas,2000,Number,18188
+State,Utah,2000,Number,1805
+State,Vermont,2000,Number,1389
+State,Virginia,2000,Number,6782
+State,Washington,2000,Number,8936
+State,West Virginia,2000,Number,3375
+State,Wisconsin,2000,Number,10486
+State,Wyoming,2000,Number,812
+State,Wyoming,2000,"Rate per 1,000",6
+State,Wisconsin,2000,"Rate per 1,000",8
+State,West Virginia,2000,"Rate per 1,000",8
+State,Washington,2000,"Rate per 1,000",6
+State,Virginia,2000,"Rate per 1,000",4
+State,Vermont,2000,"Rate per 1,000",9
+State,Utah,2000,"Rate per 1,000",3
+State,Texas,2000,"Rate per 1,000",3
+State,Tennessee,2000,"Rate per 1,000",7
+State,South Dakota,2000,"Rate per 1,000",6
+State,South Carolina,2000,"Rate per 1,000",4
+State,Rhode Island,2000,"Rate per 1,000",9
+State,Pennsylvania,2000,"Rate per 1,000",7
+State,Oregon,2000,"Rate per 1,000",11
+State,Oklahoma,2000,"Rate per 1,000",9
+State,Ohio,2000,"Rate per 1,000",7
+State,North Dakota,2000,"Rate per 1,000",7
+State,North Carolina,2000,"Rate per 1,000",6
+State,New York,2000,"Rate per 1,000",10
+State,New Mexico,2000,"Rate per 1,000",4
+State,New Jersey,2000,"Rate per 1,000",5
+State,New Hampshire,2000,"Rate per 1,000",4
+State,Nevada,2000,"Rate per 1,000",3
+State,Nebraska,2000,"Rate per 1,000",13
+State,Montana,2000,"Rate per 1,000",9
+State,Missouri,2000,"Rate per 1,000",9
+State,Mississippi,2000,"Rate per 1,000",4
+State,Minnesota,2000,"Rate per 1,000",7
+State,Michigan,2000,"Rate per 1,000",8
+State,Massachusetts,2000,"Rate per 1,000",8
+State,Maryland,2000,"Rate per 1,000",10
+State,Maine,2000,"Rate per 1,000",11
+State,Louisiana,2000,"Rate per 1,000",4
+State,Kentucky,2000,"Rate per 1,000",6
+State,Kansas,2000,"Rate per 1,000",9
+State,Iowa,2000,"Rate per 1,000",7
+State,Indiana,2000,"Rate per 1,000",5
+State,Illinois,2000,"Rate per 1,000",9
+State,Idaho,2000,"Rate per 1,000",3
+State,Hawaii,2000,"Rate per 1,000",8
+State,Georgia,2000,"Rate per 1,000",5
+State,Florida,2000,"Rate per 1,000",10
+City,District of Columbia,2000,"Rate per 1,000",26
+State,Delaware,2000,"Rate per 1,000",6
+State,Connecticut,2000,"Rate per 1,000",8
+State,Colorado,2000,"Rate per 1,000",7
+State,California,2000,"Rate per 1,000",12
+State,Arkansas,2000,"Rate per 1,000",4
+State,Arizona,2000,"Rate per 1,000",5
+State,Alaska,2000,"Rate per 1,000",12
+State,Alabama,2000,"Rate per 1,000",5
+Nation,United States,2000,"Rate per 1,000",8
+Nation,United States,2001,"Rate per 1,000",7
+State,Alabama,2001,"Rate per 1,000",5
+State,Alaska,2001,"Rate per 1,000",11
+State,Arizona,2001,"Rate per 1,000",4
+State,Arkansas,2001,"Rate per 1,000",4
+State,California,2001,"Rate per 1,000",11
+State,Colorado,2001,"Rate per 1,000",6
+State,Connecticut,2001,"Rate per 1,000",9
+State,Delaware,2001,"Rate per 1,000",5
+City,District of Columbia,2001,"Rate per 1,000",29
+State,Florida,2001,"Rate per 1,000",9
+State,Georgia,2001,"Rate per 1,000",6
+State,Idaho,2001,"Rate per 1,000",3
+State,Hawaii,2001,"Rate per 1,000",9
+State,Illinois,2001,"Rate per 1,000",9
+State,Indiana,2001,"Rate per 1,000",5
+State,Iowa,2001,"Rate per 1,000",7
+State,Kansas,2001,"Rate per 1,000",9
+State,Kentucky,2001,"Rate per 1,000",6
+State,Louisiana,2001,"Rate per 1,000",4
+State,Maine,2001,"Rate per 1,000",11
+State,Maryland,2001,"Rate per 1,000",9
+State,Massachusetts,2001,"Rate per 1,000",8
+State,Michigan,2001,"Rate per 1,000",8
+State,Minnesota,2001,"Rate per 1,000",6
+State,Mississippi,2001,"Rate per 1,000",4
+State,Missouri,2001,"Rate per 1,000",9
+State,Montana,2001,"Rate per 1,000",9
+State,Nevada,2001,"Rate per 1,000",5
+State,Nebraska,2001,"Rate per 1,000",14
+State,New Hampshire,2001,"Rate per 1,000",4
+State,New Jersey,2001,"Rate per 1,000",5
+State,New Mexico,2001,"Rate per 1,000",4
+State,New York,2001,"Rate per 1,000",9
+State,North Carolina,2001,"Rate per 1,000",5
+State,North Dakota,2001,"Rate per 1,000",8
+State,Ohio,2001,"Rate per 1,000",7
+State,Oklahoma,2001,"Rate per 1,000",10
+State,Oregon,2001,"Rate per 1,000",11
+State,Pennsylvania,2001,"Rate per 1,000",7
+State,Rhode Island,2001,"Rate per 1,000",10
+State,South Carolina,2001,"Rate per 1,000",5
+State,South Dakota,2001,"Rate per 1,000",7
+State,Tennessee,2001,"Rate per 1,000",7
+State,Utah,2001,"Rate per 1,000",3
+State,Texas,2001,"Rate per 1,000",3
+State,Vermont,2001,"Rate per 1,000",9
+State,Virginia,2001,"Rate per 1,000",4
+State,Washington,2001,"Rate per 1,000",6
+State,West Virginia,2001,"Rate per 1,000",8
+State,Wisconsin,2001,"Rate per 1,000",7
+State,Wyoming,2001,"Rate per 1,000",8
+State,Wyoming,2001,Number,962
+State,Wisconsin,2001,Number,9483
+State,West Virginia,2001,Number,3275
+State,Washington,2001,Number,9087
+State,Virginia,2001,Number,6860
+State,Vermont,2001,Number,1382
+State,Utah,2001,Number,1956
+State,Texas,2001,Number,19734
+State,Tennessee,2001,Number,9658
+State,South Dakota,2001,Number,1366
+State,South Carolina,2001,Number,4772
+State,Rhode Island,2001,Number,2404
+State,Pennsylvania,2001,Number,21212
+State,Oregon,2001,Number,8962
+State,Oklahoma,2001,Number,8658
+State,Ohio,2001,Number,21532
+State,North Dakota,2001,Number,1167
+State,North Carolina,2001,Number,10105
+State,New York,2001,Number,43330
+State,New Mexico,2001,Number,1757
+State,New Jersey,2001,Number,10644
+State,New Hampshire,2001,Number,1288
+State,Nevada,2001,Number,2940
+State,Nebraska,2001,Number,6238
+State,Montana,2001,Number,2007
+State,Missouri,2001,Number,13380
+State,Mississippi,2001,Number,3425
+State,Minnesota,2001,Number,8130
+State,Michigan,2001,Number,20767
+State,Massachusetts,2001,Number,11518
+State,Maryland,2001,Number,12542
+State,Maine,2001,Number,3224
+State,Louisiana,2001,Number,5024
+State,Kentucky,2001,Number,6142
+State,Kansas,2001,Number,6390
+State,Iowa,2001,Number,5200
+State,Indiana,2001,Number,8367
+State,Illinois,2001,Number,28159
+State,Idaho,2001,Number,1114
+State,Hawaii,2001,Number,2583
+State,Georgia,2001,Number,13157
+State,Florida,2001,Number,32421
+City,District of Columbia,2001,Number,3324
+State,Delaware,2001,Number,1018
+State,Connecticut,2001,Number,7431
+State,Colorado,2001,Number,7056
+State,California,2001,Number,107042
+State,Arkansas,2001,Number,2959
+State,Arizona,2001,Number,6049
+State,Alaska,2001,Number,1992
+State,Alabama,2001,Number,5845
+Nation,United States,2001,Number,535038
+Nation,United States,2002,Number,523502
+State,Alabama,2002,Number,5871
+State,Alaska,2002,Number,2071
+State,Arizona,2002,Number,6168
+State,Arkansas,2002,Number,2971
+State,California,2002,Number,100318
+State,Colorado,2002,Number,9041
+State,Connecticut,2002,Number,6000
+State,Delaware,2002,Number,883
+City,District of Columbia,2002,Number,3306
+State,Florida,2002,Number,31925
+State,Georgia,2002,Number,13132
+State,Hawaii,2002,Number,2761
+State,Idaho,2002,Number,1246
+State,Illinois,2002,Number,24299
+State,Indiana,2002,Number,8475
+State,Iowa,2002,Number,5235
+State,Kansas,2002,Number,6177
+State,Kentucky,2002,Number,6795
+State,Louisiana,2002,Number,4829
+State,Maine,2002,Number,3079
+State,Maryland,2002,Number,12010
+State,Massachusetts,2002,Number,12471
+State,Michigan,2002,Number,21210
+State,Minnesota,2002,Number,8013
+State,Mississippi,2002,Number,2684
+State,Missouri,2002,Number,13015
+State,Montana,2002,Number,1912
+State,Nebraska,2002,Number,5704
+State,Nevada,2002,Number,3267
+State,New Hampshire,2002,Number,1290
+State,New Jersey,2002,Number,11413
+State,New Mexico,2002,Number,1884
+State,New York,2002,Number,40695
+State,North Carolina,2002,Number,9506
+State,North Dakota,2002,Number,1197
+State,Ohio,2002,Number,20984
+State,Oklahoma,2002,Number,8807
+State,Oregon,2002,Number,9099
+State,Pennsylvania,2002,Number,21323
+State,Rhode Island,2002,Number,2370
+State,South Carolina,2002,Number,4806
+State,South Dakota,2002,Number,1394
+State,Tennessee,2002,Number,9343
+State,Texas,2002,Number,21352
+State,Utah,2002,Number,2023
+State,Vermont,2002,Number,1526
+State,Virginia,2002,Number,7105
+State,Washington,2002,Number,9661
+State,West Virginia,2002,Number,3192
+State,Wisconsin,2002,Number,8736
+State,Wyoming,2002,Number,928
+State,Wyoming,2002,"Rate per 1,000",7
+State,Wisconsin,2002,"Rate per 1,000",6
+State,West Virginia,2002,"Rate per 1,000",8
+State,Washington,2002,"Rate per 1,000",6
+State,Virginia,2002,"Rate per 1,000",4
+State,Vermont,2002,"Rate per 1,000",11
+State,Texas,2002,"Rate per 1,000",4
+State,Utah,2002,"Rate per 1,000",3
+State,Tennessee,2002,"Rate per 1,000",7
+State,South Dakota,2002,"Rate per 1,000",7
+State,South Carolina,2002,"Rate per 1,000",5
+State,Rhode Island,2002,"Rate per 1,000",10
+State,Pennsylvania,2002,"Rate per 1,000",7
+State,Oregon,2002,"Rate per 1,000",11
+State,Oklahoma,2002,"Rate per 1,000",10
+State,Ohio,2002,"Rate per 1,000",7
+State,North Dakota,2002,"Rate per 1,000",8
+State,North Carolina,2002,"Rate per 1,000",5
+State,New York,2002,"Rate per 1,000",9
+State,New Mexico,2002,"Rate per 1,000",4
+State,New Jersey,2002,"Rate per 1,000",5
+State,New Hampshire,2002,"Rate per 1,000",4
+State,Nebraska,2002,"Rate per 1,000",13
+State,Nevada,2002,"Rate per 1,000",6
+State,Montana,2002,"Rate per 1,000",9
+State,Missouri,2002,"Rate per 1,000",9
+State,Mississippi,2002,"Rate per 1,000",4
+State,Minnesota,2002,"Rate per 1,000",6
+State,Michigan,2002,"Rate per 1,000",8
+State,Massachusetts,2002,"Rate per 1,000",8
+State,Maryland,2002,"Rate per 1,000",9
+State,Maine,2002,"Rate per 1,000",10
+State,Louisiana,2002,"Rate per 1,000",4
+State,Kentucky,2002,"Rate per 1,000",7
+State,Kansas,2002,"Rate per 1,000",9
+State,Iowa,2002,"Rate per 1,000",7
+State,Indiana,2002,"Rate per 1,000",5
+State,Illinois,2002,"Rate per 1,000",7
+State,Hawaii,2002,"Rate per 1,000",10
+State,Idaho,2002,"Rate per 1,000",3
+State,Georgia,2002,"Rate per 1,000",6
+State,Florida,2002,"Rate per 1,000",8
+City,District of Columbia,2002,"Rate per 1,000",28
+State,Delaware,2002,"Rate per 1,000",4
+State,Connecticut,2002,"Rate per 1,000",7
+State,Colorado,2002,"Rate per 1,000",8
+State,California,2002,"Rate per 1,000",11
+State,Arkansas,2002,"Rate per 1,000",4
+State,Arizona,2002,"Rate per 1,000",4
+State,Alaska,2002,"Rate per 1,000",11
+State,Alabama,2002,"Rate per 1,000",5
+Nation,United States,2002,"Rate per 1,000",7
+Nation,United States,2003,"Rate per 1,000",7
+State,Alabama,2003,"Rate per 1,000",5
+State,Alaska,2003,"Rate per 1,000",11
+State,Arizona,2003,"Rate per 1,000",5
+State,Arkansas,2003,"Rate per 1,000",4
+State,California,2003,"Rate per 1,000",10
+State,Colorado,2003,"Rate per 1,000",7
+State,Connecticut,2003,"Rate per 1,000",8
+State,Delaware,2003,"Rate per 1,000",4
+State,Florida,2003,"Rate per 1,000",8
+City,District of Columbia,2003,"Rate per 1,000",27
+State,Georgia,2003,"Rate per 1,000",6
+State,Idaho,2003,"Rate per 1,000",4
+State,Hawaii,2003,"Rate per 1,000",10
+State,Illinois,2003,"Rate per 1,000",7
+State,Indiana,2003,"Rate per 1,000",6
+State,Iowa,2003,"Rate per 1,000",7
+State,Kansas,2003,"Rate per 1,000",8
+State,Kentucky,2003,"Rate per 1,000",7
+State,Louisiana,2003,"Rate per 1,000",4
+State,Maine,2003,"Rate per 1,000",9
+State,Maryland,2003,"Rate per 1,000",8
+State,Massachusetts,2003,"Rate per 1,000",8
+State,Michigan,2003,"Rate per 1,000",8
+State,Minnesota,2003,"Rate per 1,000",5
+State,Missouri,2003,"Rate per 1,000",8
+State,Mississippi,2003,"Rate per 1,000",4
+State,Montana,2003,"Rate per 1,000",8
+State,Nevada,2003,"Rate per 1,000",6
+State,Nebraska,2003,"Rate per 1,000",12
+State,New Hampshire,2003,"Rate per 1,000",4
+State,New Jersey,2003,"Rate per 1,000",6
+State,New Mexico,2003,"Rate per 1,000",4
+State,New York,2003,"Rate per 1,000",8
+State,North Carolina,2003,"Rate per 1,000",5
+State,North Dakota,2003,"Rate per 1,000",8
+State,Ohio,2003,"Rate per 1,000",7
+State,Oklahoma,2003,"Rate per 1,000",10
+State,Oregon,2003,"Rate per 1,000",11
+State,Pennsylvania,2003,"Rate per 1,000",7
+State,Rhode Island,2003,"Rate per 1,000",9
+State,South Dakota,2003,"Rate per 1,000",8
+State,South Carolina,2003,"Rate per 1,000",5
+State,Tennessee,2003,"Rate per 1,000",7
+State,Utah,2003,"Rate per 1,000",3
+State,Texas,2003,"Rate per 1,000",4
+State,Vermont,2003,"Rate per 1,000",10
+State,Virginia,2003,"Rate per 1,000",4
+State,Washington,2003,"Rate per 1,000",6
+State,West Virginia,2003,"Rate per 1,000",10
+State,Wisconsin,2003,"Rate per 1,000",6
+State,Wyoming,2003,"Rate per 1,000",9
+State,Wyoming,2003,Number,1054
+State,Wisconsin,2003,Number,7808
+State,West Virginia,2003,Number,4041
+State,Washington,2003,Number,9211
+State,Virginia,2003,Number,7044
+State,Vermont,2003,Number,1409
+State,Utah,2003,Number,2033
+State,Texas,2003,Number,21879
+State,Tennessee,2003,Number,9466
+State,South Dakota,2003,Number,1537
+State,South Carolina,2003,Number,4792
+State,Rhode Island,2003,Number,2333
+State,Pennsylvania,2003,Number,20792
+State,Oregon,2003,Number,9114
+State,Oklahoma,2003,Number,9245
+State,Ohio,2003,Number,19292
+State,North Dakota,2003,Number,1237
+State,North Carolina,2003,Number,9509
+State,New York,2003,Number,37024
+State,New Mexico,2003,Number,2122
+State,New Jersey,2003,Number,12793
+State,New Hampshire,2003,Number,1217
+State,Nevada,2003,Number,3519
+State,Nebraska,2003,Number,5134
+State,Montana,2003,Number,1866
+State,Missouri,2003,Number,11884
+State,Mississippi,2003,Number,2719
+State,Minnesota,2003,Number,6769
+State,Michigan,2003,Number,21360
+State,Massachusetts,2003,Number,12574
+State,Maryland,2003,Number,11510
+State,Maine,2003,Number,2760
+State,Louisiana,2003,Number,4541
+State,Kentucky,2003,Number,6887
+State,Kansas,2003,Number,5771
+State,Iowa,2003,Number,5006
+State,Indiana,2003,Number,8811
+State,Illinois,2003,Number,21564
+State,Idaho,2003,Number,1401
+State,Hawaii,2003,Number,2885
+State,Georgia,2003,Number,13558
+State,Florida,2003,Number,30650
+City,District of Columbia,2003,Number,3080
+State,Delaware,2003,Number,813
+State,Connecticut,2003,Number,6735
+State,Colorado,2003,Number,8614
+State,California,2003,Number,97139
+State,Arkansas,2003,Number,3012
+State,Arizona,2003,Number,7465
+State,Alaska,2003,Number,2039
+State,Alabama,2003,Number,6068
+Nation,United States,2003,Number,511086
+Nation,United States,2004,Number,498527
+State,Alabama,2004,Number,5924
+State,Alaska,2004,Number,1829
+State,Arizona,2004,Number,9191
+State,Arkansas,2004,Number,3124
+State,California,2004,Number,82135
+State,Colorado,2004,Number,8085
+State,Connecticut,2004,Number,6795
+State,Delaware,2004,Number,845
+City,District of Columbia,2004,Number,2594
+State,Florida,2004,Number,28844
+State,Georgia,2004,Number,14199
+State,Hawaii,2004,Number,2945
+State,Idaho,2004,Number,1565
+State,Illinois,2004,Number,19895
+State,Indiana,2004,Number,9774
+State,Iowa,2004,Number,5383
+State,Kansas,2004,Number,6044
+State,Kentucky,2004,Number,6984
+State,Louisiana,2004,Number,4397
+State,Maine,2004,Number,2584
+State,Maryland,2004,Number,11096
+State,Massachusetts,2004,Number,12522
+State,Michigan,2004,Number,21155
+State,Minnesota,2004,Number,6537
+State,Mississippi,2004,Number,2988
+State,Missouri,2004,Number,11763
+State,Montana,2004,Number,2030
+State,Nebraska,2004,Number,6264
+State,Nevada,2004,Number,4023
+State,New Hampshire,2004,Number,1236
+State,New Jersey,2004,Number,12257
+State,New Mexico,2004,Number,2157
+State,New York,2004,Number,33408
+State,North Carolina,2004,Number,10045
+State,North Dakota,2004,Number,1311
+State,Ohio,2004,Number,17981
+State,Oklahoma,2004,Number,11324
+State,Oregon,2004,Number,10044
+State,Pennsylvania,2004,Number,21862
+State,Rhode Island,2004,Number,2383
+State,South Carolina,2004,Number,4634
+State,South Dakota,2004,Number,1581
+State,Tennessee,2004,Number,9570
+State,Texas,2004,Number,24526
+State,Utah,2004,Number,2107
+State,Vermont,2004,Number,1431
+State,Virginia,2004,Number,6866
+State,Washington,2004,Number,9358
+State,West Virginia,2004,Number,3950
+State,Wisconsin,2004,Number,7802
+State,Wyoming,2004,Number,1180
+State,Wyoming,2004,"Rate per 1,000",10
+State,Wisconsin,2004,"Rate per 1,000",6
+State,West Virginia,2004,"Rate per 1,000",10
+State,Washington,2004,"Rate per 1,000",6
+State,Virginia,2004,"Rate per 1,000",4
+State,Vermont,2004,"Rate per 1,000",10
+State,Texas,2004,"Rate per 1,000",4
+State,Utah,2004,"Rate per 1,000",3
+State,Tennessee,2004,"Rate per 1,000",7
+State,South Carolina,2004,"Rate per 1,000",5
+State,South Dakota,2004,"Rate per 1,000",8
+State,Rhode Island,2004,"Rate per 1,000",10
+State,Pennsylvania,2004,"Rate per 1,000",8
+State,Oregon,2004,"Rate per 1,000",12
+State,Oklahoma,2004,"Rate per 1,000",13
+State,Ohio,2004,"Rate per 1,000",6
+State,North Dakota,2004,"Rate per 1,000",9
+State,North Carolina,2004,"Rate per 1,000",5
+State,New York,2004,"Rate per 1,000",7
+State,New Mexico,2004,"Rate per 1,000",4
+State,New Jersey,2004,"Rate per 1,000",6
+State,New Hampshire,2004,"Rate per 1,000",4
+State,Nebraska,2004,"Rate per 1,000",14
+State,Nevada,2004,"Rate per 1,000",7
+State,Montana,2004,"Rate per 1,000",9
+State,Mississippi,2004,"Rate per 1,000",4
+State,Missouri,2004,"Rate per 1,000",8
+State,Minnesota,2004,"Rate per 1,000",5
+State,Michigan,2004,"Rate per 1,000",8
+State,Massachusetts,2004,"Rate per 1,000",8
+State,Maryland,2004,"Rate per 1,000",8
+State,Maine,2004,"Rate per 1,000",9
+State,Louisiana,2004,"Rate per 1,000",4
+State,Kentucky,2004,"Rate per 1,000",7
+State,Kansas,2004,"Rate per 1,000",9
+State,Iowa,2004,"Rate per 1,000",8
+State,Indiana,2004,"Rate per 1,000",6
+State,Illinois,2004,"Rate per 1,000",6
+State,Hawaii,2004,"Rate per 1,000",10
+State,Idaho,2004,"Rate per 1,000",4
+State,Georgia,2004,"Rate per 1,000",6
+City,District of Columbia,2004,"Rate per 1,000",22
+State,Florida,2004,"Rate per 1,000",7
+State,Delaware,2004,"Rate per 1,000",4
+State,Connecticut,2004,"Rate per 1,000",8
+State,Colorado,2004,"Rate per 1,000",7
+State,California,2004,"Rate per 1,000",9
+State,Arkansas,2004,"Rate per 1,000",5
+State,Arizona,2004,"Rate per 1,000",6
+State,Alaska,2004,"Rate per 1,000",10
+State,Alabama,2004,"Rate per 1,000",5
+Nation,United States,2004,"Rate per 1,000",7
+Nation,United States,2005,"Rate per 1,000",7
+State,Alabama,2005,"Rate per 1,000",6
+State,Alaska,2005,"Rate per 1,000",10
+State,Arizona,2005,"Rate per 1,000",6
+State,Arkansas,2005,"Rate per 1,000",5
+State,California,2005,"Rate per 1,000",8
+State,Connecticut,2005,"Rate per 1,000",8
+State,Colorado,2005,"Rate per 1,000",7
+State,Delaware,2005,"Rate per 1,000",5
+State,Florida,2005,"Rate per 1,000",7
+City,District of Columbia,2005,"Rate per 1,000",22
+State,Georgia,2005,"Rate per 1,000",6
+State,Idaho,2005,"Rate per 1,000",5
+State,Hawaii,2005,"Rate per 1,000",9
+State,Illinois,2005,"Rate per 1,000",6
+State,Indiana,2005,"Rate per 1,000",7
+State,Iowa,2005,"Rate per 1,000",10
+State,Kansas,2005,"Rate per 1,000",8
+State,Kentucky,2005,"Rate per 1,000",7
+State,Louisiana,2005,"Rate per 1,000",4
+State,Maine,2005,"Rate per 1,000",8
+State,Maryland,2005,"Rate per 1,000",8
+State,Michigan,2005,"Rate per 1,000",8
+State,Massachusetts,2005,"Rate per 1,000",8
+State,Minnesota,2005,"Rate per 1,000",6
+State,Missouri,2005,"Rate per 1,000",8
+State,Mississippi,2005,"Rate per 1,000",4
+State,Montana,2005,"Rate per 1,000",10
+State,Nevada,2005,"Rate per 1,000",7
+State,Nebraska,2005,"Rate per 1,000",14
+State,New Hampshire,2005,"Rate per 1,000",4
+State,New Jersey,2005,"Rate per 1,000",5
+State,New Mexico,2005,"Rate per 1,000",5
+State,New York,2005,"Rate per 1,000",7
+State,North Carolina,2005,"Rate per 1,000",5
+State,North Dakota,2005,"Rate per 1,000",9
+State,Ohio,2005,"Rate per 1,000",6
+State,Oklahoma,2005,"Rate per 1,000",13
+State,Pennsylvania,2005,"Rate per 1,000",8
+State,Oregon,2005,"Rate per 1,000",13
+State,Rhode Island,2005,"Rate per 1,000",10
+State,South Dakota,2005,"Rate per 1,000",9
+State,South Carolina,2005,"Rate per 1,000",5
+State,Tennessee,2005,"Rate per 1,000",6
+State,Utah,2005,"Rate per 1,000",3
+State,Texas,2005,"Rate per 1,000",5
+State,Vermont,2005,"Rate per 1,000",11
+State,Virginia,2005,"Rate per 1,000",4
+State,Washington,2005,"Rate per 1,000",7
+State,West Virginia,2005,"Rate per 1,000",11
+State,Wisconsin,2005,"Rate per 1,000",6
+State,Wyoming,2005,"Rate per 1,000",10
+State,Wyoming,2005,Number,1241
+State,Wisconsin,2005,Number,8103
+State,West Virginia,2005,Number,4260
+State,Washington,2005,Number,10061
+State,Virginia,2005,Number,7022
+State,Vermont,2005,Number,1435
+State,Utah,2005,Number,2283
+State,Texas,2005,Number,28881
+State,Tennessee,2005,Number,8996
+State,South Dakota,2005,Number,1704
+State,South Carolina,2005,Number,4757
+State,Rhode Island,2005,Number,2484
+State,Pennsylvania,2005,Number,21597
+State,Oregon,2005,Number,11012
+State,Oklahoma,2005,Number,11392
+State,Ohio,2005,Number,17421
+State,North Dakota,2005,Number,1369
+State,North Carolina,2005,Number,10654
+State,New York,2005,Number,30416
+State,New Mexico,2005,Number,2316
+State,New Jersey,2005,Number,11175
+State,New Hampshire,2005,Number,1177
+State,Nevada,2005,Number,4619
+State,Nebraska,2005,Number,6207
+State,Montana,2005,Number,2222
+State,Missouri,2005,Number,11422
+State,Mississippi,2005,Number,3268
+State,Minnesota,2005,Number,6976
+State,Michigan,2005,Number,20488
+State,Massachusetts,2005,Number,12119
+State,Maryland,2005,Number,10850
+State,Maine,2005,Number,2309
+State,Louisiana,2005,Number,4833
+State,Kentucky,2005,Number,7203
+State,Kansas,2005,Number,5831
+State,Iowa,2005,Number,6789
+State,Indiana,2005,Number,11236
+State,Illinois,2005,Number,19370
+State,Idaho,2005,Number,1818
+State,Hawaii,2005,Number,2745
+State,Georgia,2005,Number,13956
+State,Florida,2005,Number,29292
+City,District of Columbia,2005,Number,2512
+State,Delaware,2005,Number,959
+State,Connecticut,2005,Number,7022
+State,Colorado,2005,Number,8106
+State,California,2005,Number,79602
+State,Arkansas,2005,Number,3238
+State,Arizona,2005,Number,9681
+State,Alaska,2005,Number,1788
+State,Alabama,2005,Number,6899
+Nation,United States,2005,Number,503116
+Nation,United States,2006,Number,502497
+State,Alabama,2006,Number,7147
+State,Alaska,2006,Number,2017
+State,Arizona,2006,Number,9725
+State,Arkansas,2006,Number,3434
+State,California,2006,Number,77525
+State,Colorado,2006,Number,8046
+State,Connecticut,2006,Number,7431
+State,Delaware,2006,Number,1068
+City,District of Columbia,2006,Number,2356
+State,Florida,2006,Number,29209
+State,Georgia,2006,Number,13175
+State,Hawaii,2006,Number,2355
+State,Idaho,2006,Number,1850
+State,Illinois,2006,Number,18306
+State,Indiana,2006,Number,11375
+State,Iowa,2006,Number,9034
+State,Kansas,2006,Number,6385
+State,Kentucky,2006,Number,7592
+State,Louisiana,2006,Number,5213
+State,Maine,2006,Number,2076
+State,Maryland,2006,Number,11467
+State,Massachusetts,2006,Number,11344
+State,Michigan,2006,Number,20134
+State,Minnesota,2006,Number,7156
+State,Mississippi,2006,Number,3203
+State,Missouri,2006,Number,10173
+State,Montana,2006,Number,1961
+State,Nebraska,2006,Number,6163
+State,Nevada,2006,Number,5044
+State,New Hampshire,2006,Number,1144
+State,New Jersey,2006,Number,10547
+State,New Mexico,2006,Number,2356
+State,New York,2006,Number,29931
+State,North Carolina,2006,Number,11078
+State,North Dakota,2006,Number,1331
+State,Ohio,2006,Number,16593
+State,Oklahoma,2006,Number,11815
+State,Oregon,2006,Number,10656
+State,Pennsylvania,2006,Number,21032
+State,Rhode Island,2006,Number,2809
+State,South Carolina,2006,Number,4918
+State,South Dakota,2006,Number,1648
+State,Tennessee,2006,Number,8602
+State,Texas,2006,Number,30846
+State,Utah,2006,Number,2424
+State,Vermont,2006,Number,1377
+State,Virginia,2006,Number,7842
+State,Washington,2006,Number,10451
+State,West Virginia,2006,Number,4200
+State,Wisconsin,2006,Number,7638
+State,Wyoming,2006,Number,1295
+State,Wyoming,2006,"Rate per 1,000",10
+State,Wisconsin,2006,"Rate per 1,000",6
+State,West Virginia,2006,"Rate per 1,000",11
+State,Washington,2006,"Rate per 1,000",7
+State,Virginia,2006,"Rate per 1,000",4
+State,Vermont,2006,"Rate per 1,000",10
+State,Texas,2006,"Rate per 1,000",5
+State,Utah,2006,"Rate per 1,000",3
+State,Tennessee,2006,"Rate per 1,000",6
+State,South Carolina,2006,"Rate per 1,000",5
+State,South Dakota,2006,"Rate per 1,000",8
+State,Rhode Island,2006,"Rate per 1,000",12
+State,Oregon,2006,"Rate per 1,000",12
+State,Pennsylvania,2006,"Rate per 1,000",7
+State,Oklahoma,2006,"Rate per 1,000",13
+State,Ohio,2006,"Rate per 1,000",6
+State,North Dakota,2006,"Rate per 1,000",9
+State,North Carolina,2006,"Rate per 1,000",5
+State,New York,2006,"Rate per 1,000",7
+State,New Mexico,2006,"Rate per 1,000",5
+State,New Jersey,2006,"Rate per 1,000",5
+State,New Hampshire,2006,"Rate per 1,000",4
+State,Nebraska,2006,"Rate per 1,000",14
+State,Nevada,2006,"Rate per 1,000",8
+State,Montana,2006,"Rate per 1,000",9
+State,Mississippi,2006,"Rate per 1,000",4
+State,Missouri,2006,"Rate per 1,000",7
+State,Minnesota,2006,"Rate per 1,000",6
+State,Massachusetts,2006,"Rate per 1,000",8
+State,Michigan,2006,"Rate per 1,000",8
+State,Maryland,2006,"Rate per 1,000",8
+State,Maine,2006,"Rate per 1,000",7
+State,Louisiana,2006,"Rate per 1,000",5
+State,Kentucky,2006,"Rate per 1,000",8
+State,Kansas,2006,"Rate per 1,000",9
+State,Iowa,2006,"Rate per 1,000",13
+State,Indiana,2006,"Rate per 1,000",7
+State,Illinois,2006,"Rate per 1,000",6
+State,Hawaii,2006,"Rate per 1,000",8
+State,Idaho,2006,"Rate per 1,000",5
+State,Georgia,2006,"Rate per 1,000",5
+City,District of Columbia,2006,"Rate per 1,000",21
+State,Florida,2006,"Rate per 1,000",7
+State,Delaware,2006,"Rate per 1,000",5
+State,Colorado,2006,"Rate per 1,000",7
+State,Connecticut,2006,"Rate per 1,000",9
+State,California,2006,"Rate per 1,000",8
+State,Arkansas,2006,"Rate per 1,000",5
+State,Arizona,2006,"Rate per 1,000",6
+State,Alaska,2006,"Rate per 1,000",11
+State,Alabama,2006,"Rate per 1,000",6
+Nation,United States,2006,"Rate per 1,000",7
+Nation,United States,2007,"Rate per 1,000",7
+State,Alabama,2007,"Rate per 1,000",6
+State,Alaska,2007,"Rate per 1,000",12
+State,Arkansas,2007,"Rate per 1,000",5
+State,Arizona,2007,"Rate per 1,000",6
+State,California,2007,"Rate per 1,000",8
+State,Connecticut,2007,"Rate per 1,000",7
+State,Colorado,2007,"Rate per 1,000",6
+State,Delaware,2007,"Rate per 1,000",6
+State,Florida,2007,"Rate per 1,000",6
+City,District of Columbia,2007,"Rate per 1,000",19
+State,Georgia,2007,"Rate per 1,000",5
+State,Idaho,2007,"Rate per 1,000",5
+State,Hawaii,2007,"Rate per 1,000",7
+State,Illinois,2007,"Rate per 1,000",6
+State,Indiana,2007,"Rate per 1,000",7
+State,Iowa,2007,"Rate per 1,000",12
+State,Kansas,2007,"Rate per 1,000",9
+State,Kentucky,2007,"Rate per 1,000",7
+State,Maine,2007,"Rate per 1,000",7
+State,Louisiana,2007,"Rate per 1,000",5
+State,Maryland,2007,"Rate per 1,000",7
+State,Michigan,2007,"Rate per 1,000",9
+State,Massachusetts,2007,"Rate per 1,000",7
+State,Minnesota,2007,"Rate per 1,000",5
+State,Missouri,2007,"Rate per 1,000",7
+State,Mississippi,2007,"Rate per 1,000",4
+State,Montana,2007,"Rate per 1,000",8
+State,Nevada,2007,"Rate per 1,000",8
+State,Nebraska,2007,"Rate per 1,000",13
+State,New Hampshire,2007,"Rate per 1,000",4
+State,New Jersey,2007,"Rate per 1,000",4
+State,New Mexico,2007,"Rate per 1,000",5
+State,New York,2007,"Rate per 1,000",7
+State,North Carolina,2007,"Rate per 1,000",5
+State,Ohio,2007,"Rate per 1,000",6
+State,North Dakota,2007,"Rate per 1,000",9
+State,Oklahoma,2007,"Rate per 1,000",13
+State,Pennsylvania,2007,"Rate per 1,000",7
+State,Oregon,2007,"Rate per 1,000",11
+State,Rhode Island,2007,"Rate per 1,000",12
+State,South Dakota,2007,"Rate per 1,000",8
+State,South Carolina,2007,"Rate per 1,000",5
+State,Tennessee,2007,"Rate per 1,000",5
+State,Utah,2007,"Rate per 1,000",3
+State,Texas,2007,"Rate per 1,000",5
+State,Vermont,2007,"Rate per 1,000",10
+State,Virginia,2007,"Rate per 1,000",4
+State,Washington,2007,"Rate per 1,000",7
+State,West Virginia,2007,"Rate per 1,000",11
+State,Wisconsin,2007,"Rate per 1,000",6
+State,Wyoming,2007,"Rate per 1,000",10
+State,Wyoming,2007,Number,1226
+State,Wisconsin,2007,Number,7441
+State,West Virginia,2007,Number,4382
+State,Washington,2007,Number,11096
+State,Virginia,2007,Number,7762
+State,Vermont,2007,Number,1307
+State,Utah,2007,Number,2738
+State,Texas,2007,Number,30135
+State,Tennessee,2007,Number,7734
+State,South Dakota,2007,Number,1566
+State,South Carolina,2007,Number,5144
+State,Rhode Island,2007,Number,2708
+State,Pennsylvania,2007,Number,20766
+State,Oregon,2007,Number,9558
+State,Oklahoma,2007,Number,11779
+State,Ohio,2007,Number,16975
+State,North Dakota,2007,Number,1262
+State,North Carolina,2007,Number,10790
+State,New York,2007,Number,30024
+State,New Mexico,2007,Number,2422
+State,New Jersey,2007,Number,9002
+State,New Hampshire,2007,Number,1082
+State,Nevada,2007,Number,5064
+State,Nebraska,2007,Number,5852
+State,Montana,2007,Number,1737
+State,Missouri,2007,Number,9835
+State,Mississippi,2007,Number,3326
+State,Minnesota,2007,Number,6756
+State,Michigan,2007,Number,20818
+State,Massachusetts,2007,Number,10495
+State,Maryland,2007,Number,9879
+State,Maine,2007,Number,1970
+State,Louisiana,2007,Number,5333
+State,Kentucky,2007,Number,7538
+State,Kansas,2007,Number,6627
+State,Iowa,2007,Number,8235
+State,Indiana,2007,Number,11362
+State,Illinois,2007,Number,17846
+State,Idaho,2007,Number,1870
+State,Hawaii,2007,Number,1939
+State,Georgia,2007,Number,12235
+State,Florida,2007,Number,26355
+City,District of Columbia,2007,Number,2191
+State,Delaware,2007,Number,1155
+State,Connecticut,2007,Number,5783
+State,Colorado,2007,Number,7659
+State,California,2007,Number,74011
+State,Arkansas,2007,Number,3616
+State,Arizona,2007,Number,9552
+State,Alaska,2007,Number,2190
+State,Alabama,2007,Number,7255
+Nation,United States,2007,Number,485383
+Nation,United States,2008,Number,453039
+State,Alabama,2008,Number,6859
+State,Alaska,2008,Number,2168
+State,Arizona,2008,Number,10402
+State,Arkansas,2008,Number,3522
+State,California,2008,Number,67280
+State,Colorado,2008,Number,7798
+State,Connecticut,2008,Number,5373
+State,Delaware,2008,Number,938
+City,District of Columbia,2008,Number,2210
+State,Florida,2008,Number,22184
+State,Georgia,2008,Number,9982
+State,Hawaii,2008,Number,1621
+State,Idaho,2008,Number,1723
+State,Illinois,2008,Number,17816
+State,Indiana,2008,Number,12383
+State,Iowa,2008,Number,6737
+State,Kansas,2008,Number,6298
+State,Kentucky,2008,Number,7181
+State,Louisiana,2008,Number,5065
+State,Maine,2008,Number,1864
+State,Maryland,2008,Number,7743
+State,Massachusetts,2008,Number,10426
+State,Michigan,2008,Number,20154
+State,Minnesota,2008,Number,6027
+State,Mississippi,2008,Number,3291
+State,Missouri,2008,Number,10125
+State,Montana,2008,Number,1600
+State,Nebraska,2008,Number,5564
+State,Nevada,2008,Number,5021
+State,New Hampshire,2008,Number,1025
+State,New Jersey,2008,Number,8503
+State,New Mexico,2008,Number,2221
+State,New York,2008,Number,29437
+State,North Carolina,2008,Number,9806
+State,North Dakota,2008,Number,1240
+State,Ohio,2008,Number,13700
+State,Oklahoma,2008,Number,10594
+State,Oregon,2008,Number,8982
+State,Pennsylvania,2008,Number,19122
+State,Rhode Island,2008,Number,2396
+State,South Carolina,2008,Number,4998
+State,South Dakota,2008,Number,1482
+State,Tennessee,2008,Number,7206
+State,Texas,2008,Number,28146
+State,Utah,2008,Number,2712
+State,Vermont,2008,Number,1199
+State,Virginia,2008,Number,6741
+State,Washington,2008,Number,11238
+State,West Virginia,2008,Number,4391
+State,Wisconsin,2008,Number,7401
+State,Wyoming,2008,Number,1144
+State,Wyoming,2008,"Rate per 1,000",9
+State,Wisconsin,2008,"Rate per 1,000",6
+State,West Virginia,2008,"Rate per 1,000",11
+State,Washington,2008,"Rate per 1,000",7
+State,Virginia,2008,"Rate per 1,000",4
+State,Vermont,2008,"Rate per 1,000",9
+State,Texas,2008,"Rate per 1,000",4
+State,Utah,2008,"Rate per 1,000",3
+State,Tennessee,2008,"Rate per 1,000",5
+State,South Carolina,2008,"Rate per 1,000",5
+State,South Dakota,2008,"Rate per 1,000",7
+State,Rhode Island,2008,"Rate per 1,000",10
+State,Oregon,2008,"Rate per 1,000",10
+State,Pennsylvania,2008,"Rate per 1,000",7
+State,Oklahoma,2008,"Rate per 1,000",12
+State,North Dakota,2008,"Rate per 1,000",9
+State,Ohio,2008,"Rate per 1,000",5
+State,North Carolina,2008,"Rate per 1,000",4
+State,New York,2008,"Rate per 1,000",7
+State,New Mexico,2008,"Rate per 1,000",4
+State,New Jersey,2008,"Rate per 1,000",4
+State,New Hampshire,2008,"Rate per 1,000",3
+State,Nebraska,2008,"Rate per 1,000",12
+State,Nevada,2008,"Rate per 1,000",7
+State,Montana,2008,"Rate per 1,000",7
+State,Mississippi,2008,"Rate per 1,000",4
+State,Missouri,2008,"Rate per 1,000",7
+State,Minnesota,2008,"Rate per 1,000",5
+State,Massachusetts,2008,"Rate per 1,000",7
+State,Michigan,2008,"Rate per 1,000",8
+State,Maryland,2008,"Rate per 1,000",6
+State,Louisiana,2008,"Rate per 1,000",5
+State,Maine,2008,"Rate per 1,000",7
+State,Kentucky,2008,"Rate per 1,000",7
+State,Kansas,2008,"Rate per 1,000",9
+State,Iowa,2008,"Rate per 1,000",9
+State,Indiana,2008,"Rate per 1,000",8
+State,Illinois,2008,"Rate per 1,000",6
+State,Hawaii,2008,"Rate per 1,000",6
+State,Idaho,2008,"Rate per 1,000",4
+State,Georgia,2008,"Rate per 1,000",4
+City,District of Columbia,2008,"Rate per 1,000",20
+State,Florida,2008,"Rate per 1,000",5
+State,Delaware,2008,"Rate per 1,000",5
+State,Colorado,2008,"Rate per 1,000",6
+State,Connecticut,2008,"Rate per 1,000",7
+State,California,2008,"Rate per 1,000",7
+State,Arizona,2008,"Rate per 1,000",6
+State,Arkansas,2008,"Rate per 1,000",5
+State,Alaska,2008,"Rate per 1,000",12
+State,Alabama,2008,"Rate per 1,000",6
+Nation,United States,2008,"Rate per 1,000",6
+State,Alabama,2013,"Rate per 1,000",4
+Nation,United States,2013,"Rate per 1,000",5
+State,Alaska,2013,"Rate per 1,000",10
+State,Arkansas,2013,"Rate per 1,000",5
+State,Arizona,2013,"Rate per 1,000",9
+State,California,2013,"Rate per 1,000",6
+State,Connecticut,2013,"Rate per 1,000",4
+State,Colorado,2013,"Rate per 1,000",4
+State,Delaware,2013,"Rate per 1,000",3
+City,District of Columbia,2013,"Rate per 1,000",9
+State,Georgia,2013,"Rate per 1,000",3
+State,Florida,2013,"Rate per 1,000",4
+State,Hawaii,2013,"Rate per 1,000",4
+State,Illinois,2013,"Rate per 1,000",5
+State,Idaho,2013,"Rate per 1,000",3
+State,Indiana,2013,"Rate per 1,000",7
+State,Kansas,2013,"Rate per 1,000",9
+State,Iowa,2013,"Rate per 1,000",9
+State,Kentucky,2013,"Rate per 1,000",7
+State,Maine,2013,"Rate per 1,000",7
+State,Louisiana,2013,"Rate per 1,000",4
+State,Maryland,2013,"Rate per 1,000",3
+State,Michigan,2013,"Rate per 1,000",6
+State,Massachusetts,2013,"Rate per 1,000",6
+State,Minnesota,2013,"Rate per 1,000",4
+State,Mississippi,2013,"Rate per 1,000",5
+State,Montana,2013,"Rate per 1,000",10
+State,Missouri,2013,"Rate per 1,000",8
+State,Nebraska,2013,"Rate per 1,000",9
+State,New Hampshire,2013,"Rate per 1,000",3
+State,Nevada,2013,"Rate per 1,000",7
+State,New Jersey,2013,"Rate per 1,000",3
+State,New York,2013,"Rate per 1,000",5
+State,New Mexico,2013,"Rate per 1,000",4
+State,North Carolina,2013,"Rate per 1,000",4
+State,Ohio,2013,"Rate per 1,000",5
+State,North Dakota,2013,"Rate per 1,000",7
+State,Oklahoma,2013,"Rate per 1,000",11
+State,Pennsylvania,2013,"Rate per 1,000",5
+State,Oregon,2013,"Rate per 1,000",9
+State,Rhode Island,2013,"Rate per 1,000",8
+State,South Carolina,2013,"Rate per 1,000",3
+State,Tennessee,2013,"Rate per 1,000",5
+State,South Dakota,2013,"Rate per 1,000",6
+State,Texas,2013,"Rate per 1,000",4
+State,Vermont,2013,"Rate per 1,000",8
+State,Utah,2013,"Rate per 1,000",3
+State,Virginia,2013,"Rate per 1,000",2
+State,West Virginia,2013,"Rate per 1,000",11
+State,Washington,2013,"Rate per 1,000",6
+State,Wisconsin,2013,"Rate per 1,000",5
+State,Wyoming,2013,"Rate per 1,000",7
+Territory,Puerto Rico,2013,"Rate per 1,000",4
+Territory,Puerto Rico,2013,Number,3408
+State,Wyoming,2013,Number,969
+State,Wisconsin,2013,Number,6381
+State,West Virginia,2013,Number,4341
+State,Washington,2013,Number,9908
+State,Virginia,2013,Number,4315
+State,Vermont,2013,Number,939
+State,Utah,2013,Number,2513
+State,Texas,2013,Number,29411
+State,Tennessee,2013,Number,8034
+State,South Dakota,2013,Number,1236
+State,South Carolina,2013,Number,3168
+State,Rhode Island,2013,Number,1636
+State,Pennsylvania,2013,Number,12910
+State,Oregon,2013,Number,7719
+State,Oklahoma,2013,Number,10554
+State,Ohio,2013,Number,12212
+State,North Dakota,2013,Number,1201
+State,North Carolina,2013,Number,8722
+State,New York,2013,Number,19993
+State,New Mexico,2013,Number,2077
+State,New Jersey,2013,Number,6943
+State,New Hampshire,2013,Number,825
+State,Nevada,2013,Number,4770
+State,Nebraska,2013,Number,4304
+State,Montana,2013,Number,2222
+State,Missouri,2013,Number,10598
+State,Mississippi,2013,Number,3564
+State,Minnesota,2013,Number,5534
+State,Michigan,2013,Number,13049
+State,Massachusetts,2013,Number,8514
+State,Maryland,2013,Number,4304
+State,Maine,2013,Number,1786
+State,Louisiana,2013,Number,3955
+State,Kentucky,2013,Number,7125
+State,Kansas,2013,Number,6402
+State,Iowa,2013,Number,6287
+State,Indiana,2013,Number,11841
+State,Illinois,2013,Number,14563
+State,Idaho,2013,Number,1334
+State,Hawaii,2013,Number,1085
+State,Georgia,2013,Number,7607
+State,Florida,2013,Number,18011
+City,District of Columbia,2013,Number,966
+State,Delaware,2013,Number,677
+State,Connecticut,2013,Number,3531
+State,Colorado,2013,Number,4964
+State,California,2013,Number,53060
+State,Arkansas,2013,Number,3797
+State,Arizona,2013,Number,14398
+State,Alaska,2013,Number,1969
+State,Alabama,2013,Number,4415
+Nation,United States,2013,Number,380639
+Nation,United States,2018,Number,424653
+State,Alabama,2018,Number,5814
+State,Alaska,2018,Number,2785
+State,Arizona,2018,Number,13360
+State,Arkansas,2018,Number,4234
+State,California,2018,Number,47706
+State,Colorado,2018,Number,4946
+State,Connecticut,2018,Number,3727
+State,Delaware,2018,Number,708
+City,District of Columbia,2018,Number,686
+State,Florida,2018,Number,24400
+State,Georgia,2018,Number,13792
+State,Hawaii,2018,Number,1600
+State,Idaho,2018,Number,1813
+State,Illinois,2018,Number,15039
+State,Indiana,2018,Number,18232
+State,Iowa,2018,Number,6213
+State,Kansas,2018,Number,8016
+State,Kentucky,2018,Number,9347
+State,Louisiana,2018,Number,4562
+State,Maine,2018,Number,1758
+State,Maryland,2018,Number,3828
+State,Massachusetts,2018,Number,10563
+State,Michigan,2018,Number,11905
+State,Minnesota,2018,Number,9169
+State,Mississippi,2018,Number,4550
+State,Missouri,2018,Number,12635
+State,Montana,2018,Number,3944
+State,Nebraska,2018,Number,3273
+State,Nevada,2018,Number,4509
+State,New Hampshire,2018,Number,1510
+State,New Jersey,2018,Number,5526
+State,New Mexico,2018,Number,2506
+State,New York,2018,Number,16246
+State,North Carolina,2018,Number,10404
+State,North Dakota,2018,Number,1535
+State,Ohio,2018,Number,15344
+State,Oklahoma,2018,Number,8631
+State,Oregon,2018,Number,7476
+State,Pennsylvania,2018,Number,15713
+State,Rhode Island,2018,Number,2000
+State,South Carolina,2018,Number,4446
+State,South Dakota,2018,Number,1559
+State,Tennessee,2018,Number,8549
+State,Texas,2018,Number,32776
+State,Utah,2018,Number,2464
+State,Vermont,2018,Number,1285
+State,Virginia,2018,Number,4764
+State,Washington,2018,Number,10708
+State,West Virginia,2018,Number,7077
+State,Wisconsin,2018,Number,7805
+State,Wyoming,2018,Number,1083
+Territory,Puerto Rico,2018,Number,2132
+Territory,Puerto Rico,2018,"Rate per 1,000",4
+State,Wyoming,2018,"Rate per 1,000",8
+State,Wisconsin,2018,"Rate per 1,000",6
+State,Washington,2018,"Rate per 1,000",6
+State,West Virginia,2018,"Rate per 1,000",19
+State,Virginia,2018,"Rate per 1,000",3
+State,Utah,2018,"Rate per 1,000",3
+State,Vermont,2018,"Rate per 1,000",11
+State,Texas,2018,"Rate per 1,000",4
+State,South Dakota,2018,"Rate per 1,000",7
+State,Tennessee,2018,"Rate per 1,000",6
+State,South Carolina,2018,"Rate per 1,000",4
+State,Rhode Island,2018,"Rate per 1,000",10
+State,Pennsylvania,2018,"Rate per 1,000",6
+State,Oregon,2018,"Rate per 1,000",9
+State,Oklahoma,2018,"Rate per 1,000",9
+State,Ohio,2018,"Rate per 1,000",6
+State,North Dakota,2018,"Rate per 1,000",9
+State,North Carolina,2018,"Rate per 1,000",5
+State,New Mexico,2018,"Rate per 1,000",5
+State,New York,2018,"Rate per 1,000",4
+State,New Jersey,2018,"Rate per 1,000",3
+State,Nevada,2018,"Rate per 1,000",7
+State,New Hampshire,2018,"Rate per 1,000",6
+State,Nebraska,2018,"Rate per 1,000",7
+State,Missouri,2018,"Rate per 1,000",9
+State,Montana,2018,"Rate per 1,000",17
+State,Mississippi,2018,"Rate per 1,000",6
+State,Minnesota,2018,"Rate per 1,000",7
+State,Michigan,2018,"Rate per 1,000",5
+State,Massachusetts,2018,"Rate per 1,000",8
+State,Maryland,2018,"Rate per 1,000",3
+State,Maine,2018,"Rate per 1,000",7
+State,Louisiana,2018,"Rate per 1,000",4
+State,Kentucky,2018,"Rate per 1,000",9
+State,Iowa,2018,"Rate per 1,000",9
+State,Kansas,2018,"Rate per 1,000",11
+State,Indiana,2018,"Rate per 1,000",12
+State,Idaho,2018,"Rate per 1,000",4
+State,Illinois,2018,"Rate per 1,000",5
+State,Hawaii,2018,"Rate per 1,000",5
+State,Florida,2018,"Rate per 1,000",6
+State,Georgia,2018,"Rate per 1,000",6
+City,District of Columbia,2018,"Rate per 1,000",5
+State,Delaware,2018,"Rate per 1,000",3
+State,Connecticut,2018,"Rate per 1,000",5
+State,Colorado,2018,"Rate per 1,000",4
+State,California,2018,"Rate per 1,000",5
+State,Arkansas,2018,"Rate per 1,000",6
+State,Arizona,2018,"Rate per 1,000",8
+State,Alaska,2018,"Rate per 1,000",15
+Nation,United States,2018,"Rate per 1,000",6
+State,Alabama,2018,"Rate per 1,000",5
+State,Alabama,2009,"Rate per 1,000",6
+Nation,United States,2009,"Rate per 1,000",6
+State,Alaska,2009,"Rate per 1,000",12
+State,Arizona,2009,"Rate per 1,000",6
+State,Arkansas,2009,"Rate per 1,000",5
+State,California,2009,"Rate per 1,000",6
+State,Colorado,2009,"Rate per 1,000",6
+State,Connecticut,2009,"Rate per 1,000",6
+State,Delaware,2009,"Rate per 1,000",4
+City,District of Columbia,2009,"Rate per 1,000",18
+State,Florida,2009,"Rate per 1,000",5
+State,Georgia,2009,"Rate per 1,000",3
+State,Idaho,2009,"Rate per 1,000",3
+State,Hawaii,2009,"Rate per 1,000",5
+State,Illinois,2009,"Rate per 1,000",5
+State,Indiana,2009,"Rate per 1,000",8
+State,Kansas,2009,"Rate per 1,000",8
+State,Iowa,2009,"Rate per 1,000",9
+State,Kentucky,2009,"Rate per 1,000",7
+State,Louisiana,2009,"Rate per 1,000",4
+State,Maine,2009,"Rate per 1,000",6
+State,Maryland,2009,"Rate per 1,000",5
+State,Massachusetts,2009,"Rate per 1,000",7
+State,Michigan,2009,"Rate per 1,000",8
+State,Minnesota,2009,"Rate per 1,000",4
+State,Mississippi,2009,"Rate per 1,000",4
+State,Missouri,2009,"Rate per 1,000",7
+State,Montana,2009,"Rate per 1,000",7
+State,Nevada,2009,"Rate per 1,000",7
+State,Nebraska,2009,"Rate per 1,000",12
+State,New Hampshire,2009,"Rate per 1,000",3
+State,New Jersey,2009,"Rate per 1,000",4
+State,New York,2009,"Rate per 1,000",6
+State,New Mexico,2009,"Rate per 1,000",4
+State,North Carolina,2009,"Rate per 1,000",4
+State,North Dakota,2009,"Rate per 1,000",8
+State,Ohio,2009,"Rate per 1,000",4
+State,Oklahoma,2009,"Rate per 1,000",9
+State,Oregon,2009,"Rate per 1,000",10
+State,Pennsylvania,2009,"Rate per 1,000",6
+State,Rhode Island,2009,"Rate per 1,000",9
+State,South Carolina,2009,"Rate per 1,000",5
+State,South Dakota,2009,"Rate per 1,000",7
+State,Tennessee,2009,"Rate per 1,000",4
+State,Utah,2009,"Rate per 1,000",3
+State,Texas,2009,"Rate per 1,000",4
+State,Vermont,2009,"Rate per 1,000",8
+State,Virginia,2009,"Rate per 1,000",3
+State,West Virginia,2009,"Rate per 1,000",11
+State,Washington,2009,"Rate per 1,000",6
+State,Wisconsin,2009,"Rate per 1,000",5
+State,Wyoming,2009,"Rate per 1,000",9
+State,Wyoming,2009,Number,1154
+State,Wisconsin,2009,Number,6784
+State,West Virginia,2009,Number,4220
+State,Washington,2009,Number,9914
+State,Virginia,2009,Number,5923
+State,Vermont,2009,Number,1061
+State,Utah,2009,Number,2754
+State,Texas,2009,Number,26686
+State,Tennessee,2009,Number,6711
+State,South Dakota,2009,Number,1484
+State,South Carolina,2009,Number,4937
+State,Rhode Island,2009,Number,2100
+State,Pennsylvania,2009,Number,16768
+State,Oregon,2009,Number,8644
+State,Oklahoma,2009,Number,8712
+State,Ohio,2009,Number,12196
+State,North Dakota,2009,Number,1221
+State,North Carolina,2009,Number,9500
+State,New York,2009,Number,27932
+State,New Mexico,2009,Number,2009
+State,New Jersey,2009,Number,7802
+State,New Hampshire,2009,Number,892
+State,Nevada,2009,Number,4778
+State,Nebraska,2009,Number,5309
+State,Montana,2009,Number,1639
+State,Missouri,2009,Number,9905
+State,Mississippi,2009,Number,3319
+State,Minnesota,2009,Number,5407
+State,Michigan,2009,Number,17716
+State,Massachusetts,2009,Number,9648
+State,Maryland,2009,Number,7047
+State,Maine,2009,Number,1646
+State,Louisiana,2009,Number,4786
+State,Kentucky,2009,Number,6870
+State,Kansas,2009,Number,5689
+State,Iowa,2009,Number,6560
+State,Indiana,2009,Number,12432
+State,Illinois,2009,Number,17059
+State,Idaho,2009,Number,1446
+State,Hawaii,2009,Number,1455
+State,Georgia,2009,Number,8020
+State,Florida,2009,Number,19150
+City,District of Columbia,2009,Number,2105
+State,Delaware,2009,Number,813
+State,Connecticut,2009,Number,4761
+State,Colorado,2009,Number,7756
+State,California,2009,Number,60151
+State,Arkansas,2009,Number,3657
+State,Arizona,2009,Number,10151
+State,Alaska,2009,Number,2166
+State,Alabama,2009,Number,6874
+Nation,United States,2009,Number,417719
+Nation,United States,2010,Number,403319
+State,Alabama,2010,Number,5349
+State,Alaska,2010,Number,1801
+State,Arizona,2010,Number,9928
+State,Arkansas,2010,Number,3770
+State,California,2010,Number,57676
+State,Colorado,2010,Number,6828
+State,Connecticut,2010,Number,4462
+State,Delaware,2010,Number,739
+City,District of Columbia,2010,Number,2061
+State,Florida,2010,Number,18747
+State,Georgia,2010,Number,6895
+State,Hawaii,2010,Number,1215
+State,Idaho,2010,Number,1462
+State,Illinois,2010,Number,17713
+State,Indiana,2010,Number,12276
+State,Iowa,2010,Number,6531
+State,Kansas,2010,Number,5976
+State,Kentucky,2010,Number,6976
+State,Louisiana,2010,Number,4453
+State,Maine,2010,Number,1546
+State,Maryland,2010,Number,6094
+State,Massachusetts,2010,Number,8957
+State,Michigan,2010,Number,16406
+State,Minnesota,2010,Number,5047
+State,Mississippi,2010,Number,3582
+State,Missouri,2010,Number,9879
+State,Montana,2010,Number,1723
+State,Nebraska,2010,Number,5322
+State,Nevada,2010,Number,4802
+State,New Hampshire,2010,Number,834
+State,New Jersey,2010,Number,7170
+State,New Mexico,2010,Number,1869
+State,New York,2010,Number,26709
+State,North Carolina,2010,Number,8759
+State,North Dakota,2010,Number,1067
+State,Ohio,2010,Number,11948
+State,Oklahoma,2010,Number,7857
+State,Oregon,2010,Number,8996
+State,Pennsylvania,2010,Number,15222
+State,Rhode Island,2010,Number,2076
+State,South Carolina,2010,Number,4483
+State,South Dakota,2010,Number,1485
+State,Tennessee,2010,Number,6773
+State,Texas,2010,Number,28952
+State,Utah,2010,Number,2883
+State,Vermont,2010,Number,931
+State,Virginia,2010,Number,5325
+State,Washington,2010,Number,10136
+State,West Virginia,2010,Number,4080
+State,Wisconsin,2010,Number,6572
+State,Wyoming,2010,Number,976
+State,Wyoming,2010,"Rate per 1,000",7
+State,Wisconsin,2010,"Rate per 1,000",5
+State,Washington,2010,"Rate per 1,000",6
+State,West Virginia,2010,"Rate per 1,000",11
+State,Virginia,2010,"Rate per 1,000",3
+State,Vermont,2010,"Rate per 1,000",7
+State,Texas,2010,"Rate per 1,000",4
+State,Utah,2010,"Rate per 1,000",3
+State,Tennessee,2010,"Rate per 1,000",5
+State,South Dakota,2010,"Rate per 1,000",7
+State,South Carolina,2010,"Rate per 1,000",4
+State,Rhode Island,2010,"Rate per 1,000",9
+State,Pennsylvania,2010,"Rate per 1,000",5
+State,Oregon,2010,"Rate per 1,000",10
+State,Oklahoma,2010,"Rate per 1,000",8
+State,Ohio,2010,"Rate per 1,000",4
+State,North Dakota,2010,"Rate per 1,000",7
+State,North Carolina,2010,"Rate per 1,000",4
+State,New Mexico,2010,"Rate per 1,000",4
+State,New York,2010,"Rate per 1,000",6
+State,New Jersey,2010,"Rate per 1,000",3
+State,New Hampshire,2010,"Rate per 1,000",3
+State,Nebraska,2010,"Rate per 1,000",12
+State,Nevada,2010,"Rate per 1,000",7
+State,Montana,2010,"Rate per 1,000",8
+State,Missouri,2010,"Rate per 1,000",7
+State,Mississippi,2010,"Rate per 1,000",5
+State,Minnesota,2010,"Rate per 1,000",4
+State,Michigan,2010,"Rate per 1,000",7
+State,Massachusetts,2010,"Rate per 1,000",6
+State,Maryland,2010,"Rate per 1,000",5
+State,Maine,2010,"Rate per 1,000",6
+State,Louisiana,2010,"Rate per 1,000",4
+State,Kentucky,2010,"Rate per 1,000",7
+State,Iowa,2010,"Rate per 1,000",9
+State,Kansas,2010,"Rate per 1,000",8
+State,Indiana,2010,"Rate per 1,000",8
+State,Illinois,2010,"Rate per 1,000",6
+State,Hawaii,2010,"Rate per 1,000",4
+State,Idaho,2010,"Rate per 1,000",3
+State,Georgia,2010,"Rate per 1,000",3
+State,Florida,2010,"Rate per 1,000",5
+City,District of Columbia,2010,"Rate per 1,000",20
+State,Delaware,2010,"Rate per 1,000",4
+State,Connecticut,2010,"Rate per 1,000",5
+State,Colorado,2010,"Rate per 1,000",6
+State,California,2010,"Rate per 1,000",6
+State,Arkansas,2010,"Rate per 1,000",5
+State,Arizona,2010,"Rate per 1,000",6
+State,Alaska,2010,"Rate per 1,000",10
+Nation,United States,2010,"Rate per 1,000",5
+State,Alabama,2010,"Rate per 1,000",5
+State,Alabama,2015,"Rate per 1,000",4
+Nation,United States,2015,"Rate per 1,000",6
+State,Alaska,2015,"Rate per 1,000",14
+State,Arizona,2015,"Rate per 1,000",11
+State,Arkansas,2015,"Rate per 1,000",6
+State,California,2015,"Rate per 1,000",6
+State,Colorado,2015,"Rate per 1,000",4
+State,Delaware,2015,"Rate per 1,000",3
+State,Connecticut,2015,"Rate per 1,000",4
+City,District of Columbia,2015,"Rate per 1,000",7
+State,Georgia,2015,"Rate per 1,000",4
+State,Florida,2015,"Rate per 1,000",5
+State,Hawaii,2015,"Rate per 1,000",4
+State,Illinois,2015,"Rate per 1,000",5
+State,Idaho,2015,"Rate per 1,000",3
+State,Indiana,2015,"Rate per 1,000",11
+State,Kansas,2015,"Rate per 1,000",10
+State,Iowa,2015,"Rate per 1,000",8
+State,Kentucky,2015,"Rate per 1,000",7
+State,Louisiana,2015,"Rate per 1,000",4
+State,Maine,2015,"Rate per 1,000",7
+State,Maryland,2015,"Rate per 1,000",3
+State,Massachusetts,2015,"Rate per 1,000",7
+State,Minnesota,2015,"Rate per 1,000",6
+State,Michigan,2015,"Rate per 1,000",5
+State,Mississippi,2015,"Rate per 1,000",6
+State,Montana,2015,"Rate per 1,000",12
+State,Missouri,2015,"Rate per 1,000",9
+State,Nebraska,2015,"Rate per 1,000",8
+State,New Hampshire,2015,"Rate per 1,000",4
+State,Nevada,2015,"Rate per 1,000",7
+State,New Jersey,2015,"Rate per 1,000",3
+State,New York,2015,"Rate per 1,000",4
+State,New Mexico,2015,"Rate per 1,000",5
+State,North Carolina,2015,"Rate per 1,000",4
+State,North Dakota,2015,"Rate per 1,000",8
+State,Ohio,2015,"Rate per 1,000",5
+State,Oklahoma,2015,"Rate per 1,000",12
+State,Oregon,2015,"Rate per 1,000",8
+State,Rhode Island,2015,"Rate per 1,000",9
+State,Pennsylvania,2015,"Rate per 1,000",6
+State,South Carolina,2015,"Rate per 1,000",3
+State,Tennessee,2015,"Rate per 1,000",5
+State,South Dakota,2015,"Rate per 1,000",6
+State,Texas,2015,"Rate per 1,000",4
+State,Vermont,2015,"Rate per 1,000",11
+State,Utah,2015,"Rate per 1,000",3
+State,Virginia,2015,"Rate per 1,000",3
+State,West Virginia,2015,"Rate per 1,000",13
+State,Washington,2015,"Rate per 1,000",6
+State,Wisconsin,2015,"Rate per 1,000",5
+State,Wyoming,2015,"Rate per 1,000",8
+Territory,Puerto Rico,2015,"Rate per 1,000",3
+Territory,Puerto Rico,2015,Number,2477
+State,Wyoming,2015,Number,1075
+State,Wisconsin,2015,Number,6909
+State,West Virginia,2015,Number,4905
+State,Washington,2015,Number,10161
+State,Virginia,2015,Number,4721
+State,Vermont,2015,Number,1308
+State,Utah,2015,Number,2516
+State,Texas,2015,Number,29784
+State,Tennessee,2015,Number,7681
+State,South Dakota,2015,Number,1265
+State,South Carolina,2015,Number,3707
+State,Rhode Island,2015,Number,1825
+State,Pennsylvania,2015,Number,14853
+State,Oregon,2015,Number,7266
+State,Oklahoma,2015,Number,11168
+State,Ohio,2015,Number,13174
+State,North Dakota,2015,Number,1335
+State,North Carolina,2015,Number,10022
+State,New York,2015,Number,18613
+State,New Mexico,2015,Number,2471
+State,New Jersey,2015,Number,6874
+State,New Hampshire,2015,Number,973
+State,Nevada,2015,Number,4471
+State,Nebraska,2015,Number,3691
+State,Montana,2015,Number,2798
+State,Missouri,2015,Number,12143
+State,Mississippi,2015,Number,4586
+State,Minnesota,2015,Number,7511
+State,Michigan,2015,Number,12093
+State,Massachusetts,2015,Number,10266
+State,Maryland,2015,Number,3734
+State,Maine,2015,Number,1863
+State,Louisiana,2015,Number,4544
+State,Kentucky,2015,Number,7507
+State,Kansas,2015,Number,7182
+State,Iowa,2015,Number,5884
+State,Indiana,2015,Number,16639
+State,Illinois,2015,Number,14650
+State,Idaho,2015,Number,1349
+State,Hawaii,2015,Number,1360
+State,Georgia,2015,Number,10934
+State,Florida,2015,Number,22354
+City,District of Columbia,2015,Number,837
+State,Delaware,2015,Number,664
+State,Connecticut,2015,Number,3356
+State,Colorado,2015,Number,4988
+State,California,2015,Number,52910
+State,Arkansas,2015,Number,4545
+State,Arizona,2015,Number,17737
+State,Alaska,2015,Number,2649
+State,Alabama,2015,Number,4608
+Nation,United States,2015,Number,410459
+Nation,United States,2020,Number,394604
+State,Alabama,2020,Number,5487
+State,Alaska,2020,Number,2850
+State,Arizona,2020,Number,13410
+State,Arkansas,2020,Number,4280
+State,California,2020,Number,46948
+State,Colorado,2020,Number,4357
+State,Connecticut,2020,Number,3550
+State,Delaware,2020,Number,481
+City,District of Columbia,2020,Number,564
+State,Florida,2020,Number,22722
+State,Georgia,2020,Number,11370
+State,Hawaii,2020,Number,1488
+State,Idaho,2020,Number,1534
+State,Illinois,2020,Number,18900
+State,Indiana,2020,Number,14772
+State,Iowa,2020,Number,4620
+State,Kansas,2020,Number,7170
+State,Kentucky,2020,Number,8656
+State,Louisiana,2020,Number,3539
+State,Maine,2020,Number,2280
+State,Maryland,2020,Number,3668
+State,Massachusetts,2020,Number,9294
+State,Michigan,2020,Number,10242
+State,Minnesota,2020,Number,7615
+State,Mississippi,2020,Number,3441
+State,Missouri,2020,Number,12630
+State,Montana,2020,Number,3400
+State,Nebraska,2020,Number,3313
+State,Nevada,2020,Number,4344
+State,New Hampshire,2020,Number,1143
+State,New Jersey,2020,Number,3788
+State,New Mexico,2020,Number,2113
+State,New York,2020,Number,15389
+State,North Carolina,2020,Number,10480
+State,North Dakota,2020,Number,1514
+State,Ohio,2020,Number,15285
+State,Oklahoma,2020,Number,8046
+State,Oregon,2020,Number,5935
+State,Pennsylvania,2020,Number,13840
+State,Rhode Island,2020,Number,2136
+State,South Carolina,2020,Number,4056
+State,South Dakota,2020,Number,1683
+State,Tennessee,2020,Number,8502
+State,Texas,2020,Number,29796
+State,Utah,2020,Number,2237
+State,Vermont,2020,Number,1060
+State,Virginia,2020,Number,4526
+State,Washington,2020,Number,8791
+State,West Virginia,2020,Number,7280
+State,Wisconsin,2020,Number,7098
+State,Wyoming,2020,Number,813
+Territory,Puerto Rico,2020,Number,2168
+Territory,Puerto Rico,2020,"Rate per 1,000",4
+State,Wyoming,2020,"Rate per 1,000",6
+State,Wisconsin,2020,"Rate per 1,000",6
+State,West Virginia,2020,"Rate per 1,000",20
+State,Washington,2020,"Rate per 1,000",5
+State,Virginia,2020,"Rate per 1,000",2
+State,Utah,2020,"Rate per 1,000",2
+State,Vermont,2020,"Rate per 1,000",9
+State,Texas,2020,"Rate per 1,000",4
+State,South Dakota,2020,"Rate per 1,000",8
+State,Tennessee,2020,"Rate per 1,000",6
+State,South Carolina,2020,"Rate per 1,000",4
+State,Pennsylvania,2020,"Rate per 1,000",5
+State,Rhode Island,2020,"Rate per 1,000",11
+State,Oregon,2020,"Rate per 1,000",7
+State,Oklahoma,2020,"Rate per 1,000",8
+State,Ohio,2020,"Rate per 1,000",6
+State,North Dakota,2020,"Rate per 1,000",8
+State,North Carolina,2020,"Rate per 1,000",5
+State,New York,2020,"Rate per 1,000",4
+State,New Mexico,2020,"Rate per 1,000",4
+State,New Jersey,2020,"Rate per 1,000",2
+State,Nevada,2020,"Rate per 1,000",6
+State,New Hampshire,2020,"Rate per 1,000",5
+State,Nebraska,2020,"Rate per 1,000",7
+State,Missouri,2020,"Rate per 1,000",9
+State,Montana,2020,"Rate per 1,000",15
+State,Mississippi,2020,"Rate per 1,000",5
+State,Michigan,2020,"Rate per 1,000",5
+State,Minnesota,2020,"Rate per 1,000",6
+State,Massachusetts,2020,"Rate per 1,000",7
+State,Maryland,2020,"Rate per 1,000",3
+State,Maine,2020,"Rate per 1,000",9
+State,Louisiana,2020,"Rate per 1,000",3
+State,Kentucky,2020,"Rate per 1,000",9
+State,Kansas,2020,"Rate per 1,000",10
+State,Iowa,2020,"Rate per 1,000",6
+State,Indiana,2020,"Rate per 1,000",9
+State,Idaho,2020,"Rate per 1,000",3
+State,Illinois,2020,"Rate per 1,000",7
+State,Hawaii,2020,"Rate per 1,000",5
+State,Florida,2020,"Rate per 1,000",5
+State,Georgia,2020,"Rate per 1,000",5
+City,District of Columbia,2020,"Rate per 1,000",4
+State,Connecticut,2020,"Rate per 1,000",5
+State,Delaware,2020,"Rate per 1,000",2
+State,Colorado,2020,"Rate per 1,000",3
+State,California,2020,"Rate per 1,000",5
+State,Arkansas,2020,"Rate per 1,000",6
+State,Arizona,2020,"Rate per 1,000",8
+State,Alaska,2020,"Rate per 1,000",16
+State,Alabama,2020,"Rate per 1,000",5
+Nation,United States,2020,"Rate per 1,000",5
+Nation,United States,2011,"Rate per 1,000",5
+State,Alabama,2011,"Rate per 1,000",5
+State,Alaska,2011,"Rate per 1,000",10
+State,Arizona,2011,"Rate per 1,000",7
+State,Arkansas,2011,"Rate per 1,000",5
+State,California,2011,"Rate per 1,000",6
+State,Colorado,2011,"Rate per 1,000",4
+State,Connecticut,2011,"Rate per 1,000",5
+State,Delaware,2011,"Rate per 1,000",4
+State,Florida,2011,"Rate per 1,000",5
+City,District of Columbia,2011,"Rate per 1,000",13
+State,Georgia,2011,"Rate per 1,000",3
+State,Hawaii,2011,"Rate per 1,000",4
+State,Illinois,2011,"Rate per 1,000",5
+State,Idaho,2011,"Rate per 1,000",3
+State,Indiana,2011,"Rate per 1,000",7
+State,Iowa,2011,"Rate per 1,000",9
+State,Kansas,2011,"Rate per 1,000",8
+State,Kentucky,2011,"Rate per 1,000",6
+State,Louisiana,2011,"Rate per 1,000",4
+State,Maine,2011,"Rate per 1,000",5
+State,Maryland,2011,"Rate per 1,000",4
+State,Massachusetts,2011,"Rate per 1,000",6
+State,Michigan,2011,"Rate per 1,000",6
+State,Minnesota,2011,"Rate per 1,000",4
+State,Missouri,2011,"Rate per 1,000",7
+State,Mississippi,2011,"Rate per 1,000",4
+State,Montana,2011,"Rate per 1,000",8
+State,Nebraska,2011,"Rate per 1,000",10
+State,New Hampshire,2011,"Rate per 1,000",2
+State,Nevada,2011,"Rate per 1,000",7
+State,New Jersey,2011,"Rate per 1,000",3
+State,New Mexico,2011,"Rate per 1,000",4
+State,New York,2011,"Rate per 1,000",5
+State,North Carolina,2011,"Rate per 1,000",4
+State,North Dakota,2011,"Rate per 1,000",7
+State,Ohio,2011,"Rate per 1,000",4
+State,Oklahoma,2011,"Rate per 1,000",9
+State,Oregon,2011,"Rate per 1,000",9
+State,Pennsylvania,2011,"Rate per 1,000",5
+State,Rhode Island,2011,"Rate per 1,000",8
+State,South Dakota,2011,"Rate per 1,000",7
+State,South Carolina,2011,"Rate per 1,000",4
+State,Tennessee,2011,"Rate per 1,000",5
+State,Texas,2011,"Rate per 1,000",4
+State,Vermont,2011,"Rate per 1,000",8
+State,Utah,2011,"Rate per 1,000",3
+State,Virginia,2011,"Rate per 1,000",3
+State,Washington,2011,"Rate per 1,000",6
+State,West Virginia,2011,"Rate per 1,000",12
+State,Wisconsin,2011,"Rate per 1,000",5
+State,Wyoming,2011,"Rate per 1,000",6
+State,Wyoming,2011,Number,853
+State,Wisconsin,2011,Number,6372
+State,West Virginia,2011,Number,4441
+State,Washington,2011,Number,9405
+State,Virginia,2011,Number,4769
+State,Vermont,2011,Number,967
+State,Utah,2011,Number,2496
+State,Texas,2011,Number,30012
+State,Tennessee,2011,Number,7445
+State,South Dakota,2011,Number,1388
+State,South Carolina,2011,Number,3791
+State,Rhode Island,2011,Number,1657
+State,Pennsylvania,2011,Number,12776
+State,Oregon,2011,Number,8061
+State,Oklahoma,2011,Number,8274
+State,Ohio,2011,Number,12017
+State,North Dakota,2011,Number,1042
+State,North Carolina,2011,Number,8275
+State,New York,2011,Number,21690
+State,New Mexico,2011,Number,1858
+State,New Jersey,2011,Number,6416
+State,New Hampshire,2011,Number,694
+State,Nevada,2011,Number,4628
+State,Nebraska,2011,Number,4752
+State,Montana,2011,Number,1781
+State,Missouri,2011,Number,9205
+State,Mississippi,2011,Number,3365
+State,Minnesota,2011,Number,4953
+State,Michigan,2011,Number,14154
+State,Massachusetts,2011,Number,8613
+State,Maryland,2011,Number,5351
+State,Maine,2011,Number,1291
+State,Louisiana,2011,Number,4531
+State,Kentucky,2011,Number,6567
+State,Kansas,2011,Number,5830
+State,Iowa,2011,Number,6269
+State,Indiana,2011,Number,10760
+State,Illinois,2011,Number,15157
+State,Idaho,2011,Number,1354
+State,Hawaii,2011,Number,1122
+State,Georgia,2011,Number,7591
+State,Florida,2011,Number,19752
+City,District of Columbia,2011,Number,1341
+State,Delaware,2011,Number,831
+State,Connecticut,2011,Number,4217
+State,Colorado,2011,Number,5423
+State,California,2011,Number,52167
+State,Arkansas,2011,Number,3732
+State,Arizona,2011,Number,10883
+State,Alaska,2011,Number,1838
+State,Alabama,2011,Number,5175
+Nation,United States,2011,Number,377332
+Nation,United States,2012,Number,375472
+State,Alabama,2012,Number,4460
+State,Alaska,2012,Number,1864
+State,Arizona,2012,Number,13461
+State,Arkansas,2012,Number,3711
+State,California,2012,Number,50813
+State,Colorado,2012,Number,5030
+State,Connecticut,2012,Number,3855
+State,Delaware,2012,Number,770
+City,District of Columbia,2012,Number,1157
+State,Florida,2012,Number,19531
+State,Georgia,2012,Number,7671
+State,Hawaii,2012,Number,1079
+State,Idaho,2012,Number,1229
+State,Illinois,2012,Number,14382
+State,Indiana,2012,Number,10909
+State,Iowa,2012,Number,6182
+State,Kansas,2012,Number,5980
+State,Kentucky,2012,Number,6913
+State,Louisiana,2012,Number,4044
+State,Maine,2012,Number,1509
+State,Maryland,2012,Number,4806
+State,Massachusetts,2012,Number,8515
+State,Michigan,2012,Number,13282
+State,Minnesota,2012,Number,5209
+State,Mississippi,2012,Number,3410
+State,Missouri,2012,Number,9961
+State,Montana,2012,Number,1926
+State,Nebraska,2012,Number,4789
+State,Nevada,2012,Number,4738
+State,New Hampshire,2012,Number,727
+State,New Jersey,2012,Number,6845
+State,New Mexico,2012,Number,1918
+State,New York,2012,Number,20893
+State,North Carolina,2012,Number,8140
+State,North Dakota,2012,Number,1082
+State,Ohio,2012,Number,11853
+State,Oklahoma,2012,Number,9132
+State,Oregon,2012,Number,8206
+State,Pennsylvania,2012,Number,13102
+State,Rhode Island,2012,Number,1589
+State,South Carolina,2012,Number,3098
+State,South Dakota,2012,Number,1384
+State,Tennessee,2012,Number,7766
+State,Texas,2012,Number,29433
+State,Utah,2012,Number,2555
+State,Vermont,2012,Number,940
+State,Virginia,2012,Number,4546
+State,Washington,2012,Number,9404
+State,West Virginia,2012,Number,4517
+State,Wisconsin,2012,Number,6220
+State,Wyoming,2012,Number,936
+State,Wyoming,2012,"Rate per 1,000",7
+Territory,Puerto Rico,2012,"Rate per 1,000",5
+Territory,Puerto Rico,2012,Number,4007
+State,Wisconsin,2012,"Rate per 1,000",5
+State,West Virginia,2012,"Rate per 1,000",12
+State,Washington,2012,"Rate per 1,000",6
+State,Virginia,2012,"Rate per 1,000",2
+State,Utah,2012,"Rate per 1,000",3
+State,Vermont,2012,"Rate per 1,000",8
+State,Texas,2012,"Rate per 1,000",4
+State,Tennessee,2012,"Rate per 1,000",5
+State,South Dakota,2012,"Rate per 1,000",7
+State,South Carolina,2012,"Rate per 1,000",3
+State,Rhode Island,2012,"Rate per 1,000",7
+State,Pennsylvania,2012,"Rate per 1,000",5
+State,Oregon,2012,"Rate per 1,000",10
+State,Oklahoma,2012,"Rate per 1,000",10
+State,Ohio,2012,"Rate per 1,000",4
+State,North Dakota,2012,"Rate per 1,000",7
+State,North Carolina,2012,"Rate per 1,000",4
+State,New York,2012,"Rate per 1,000",5
+State,New Mexico,2012,"Rate per 1,000",4
+State,New Jersey,2012,"Rate per 1,000",3
+State,Nevada,2012,"Rate per 1,000",7
+State,New Hampshire,2012,"Rate per 1,000",3
+State,Nebraska,2012,"Rate per 1,000",10
+State,Montana,2012,"Rate per 1,000",9
+State,Missouri,2012,"Rate per 1,000",7
+State,Mississippi,2012,"Rate per 1,000",5
+State,Minnesota,2012,"Rate per 1,000",4
+State,Michigan,2012,"Rate per 1,000",6
+State,Massachusetts,2012,"Rate per 1,000",6
+State,Maryland,2012,"Rate per 1,000",4
+State,Maine,2012,"Rate per 1,000",6
+State,Louisiana,2012,"Rate per 1,000",4
+State,Kentucky,2012,"Rate per 1,000",7
+State,Kansas,2012,"Rate per 1,000",8
+State,Iowa,2012,"Rate per 1,000",9
+State,Indiana,2012,"Rate per 1,000",7
+State,Idaho,2012,"Rate per 1,000",3
+State,Illinois,2012,"Rate per 1,000",5
+State,Hawaii,2012,"Rate per 1,000",4
+State,Georgia,2012,"Rate per 1,000",3
+State,Florida,2012,"Rate per 1,000",5
+City,District of Columbia,2012,"Rate per 1,000",11
+State,Delaware,2012,"Rate per 1,000",4
+State,Connecticut,2012,"Rate per 1,000",5
+State,Colorado,2012,"Rate per 1,000",4
+State,California,2012,"Rate per 1,000",5
+State,Arkansas,2012,"Rate per 1,000",5
+State,Arizona,2012,"Rate per 1,000",8
+State,Alaska,2012,"Rate per 1,000",10
+State,Alabama,2012,"Rate per 1,000",4
+Nation,United States,2012,"Rate per 1,000",5
+Nation,United States,2014,"Rate per 1,000",5
+State,Alabama,2014,"Rate per 1,000",4
+State,Alaska,2014,"Rate per 1,000",12
+State,Arizona,2014,"Rate per 1,000",10
+State,Arkansas,2014,"Rate per 1,000",5
+State,California,2014,"Rate per 1,000",6
+State,Colorado,2014,"Rate per 1,000",4
+State,Delaware,2014,"Rate per 1,000",3
+State,Connecticut,2014,"Rate per 1,000",4
+City,District of Columbia,2014,"Rate per 1,000",7
+State,Florida,2014,"Rate per 1,000",5
+State,Georgia,2014,"Rate per 1,000",4
+State,Hawaii,2014,"Rate per 1,000",4
+State,Illinois,2014,"Rate per 1,000",5
+State,Idaho,2014,"Rate per 1,000",3
+State,Indiana,2014,"Rate per 1,000",9
+State,Iowa,2014,"Rate per 1,000",8
+State,Kansas,2014,"Rate per 1,000",9
+State,Kentucky,2014,"Rate per 1,000",7
+State,Louisiana,2014,"Rate per 1,000",4
+State,Maine,2014,"Rate per 1,000",7
+State,Maryland,2014,"Rate per 1,000",3
+State,Massachusetts,2014,"Rate per 1,000",7
+State,Minnesota,2014,"Rate per 1,000",5
+State,Michigan,2014,"Rate per 1,000",6
+State,Mississippi,2014,"Rate per 1,000",6
+State,Missouri,2014,"Rate per 1,000",8
+State,Montana,2014,"Rate per 1,000",10
+State,Nebraska,2014,"Rate per 1,000",8
+State,New Hampshire,2014,"Rate per 1,000",3
+State,Nevada,2014,"Rate per 1,000",7
+State,New Jersey,2014,"Rate per 1,000",4
+State,New Mexico,2014,"Rate per 1,000",5
+State,New York,2014,"Rate per 1,000",5
+State,North Carolina,2014,"Rate per 1,000",4
+State,North Dakota,2014,"Rate per 1,000",8
+State,Ohio,2014,"Rate per 1,000",5
+State,Oklahoma,2014,"Rate per 1,000",12
+State,Oregon,2014,"Rate per 1,000",8
+State,Rhode Island,2014,"Rate per 1,000",9
+State,Pennsylvania,2014,"Rate per 1,000",5
+State,South Carolina,2014,"Rate per 1,000",3
+State,South Dakota,2014,"Rate per 1,000",6
+State,Tennessee,2014,"Rate per 1,000",5
+State,Texas,2014,"Rate per 1,000",4
+State,Vermont,2014,"Rate per 1,000",9
+State,Utah,2014,"Rate per 1,000",3
+State,Virginia,2014,"Rate per 1,000",2
+State,Washington,2014,"Rate per 1,000",6
+State,West Virginia,2014,"Rate per 1,000",12
+State,Wisconsin,2014,"Rate per 1,000",5
+Territory,Puerto Rico,2014,"Rate per 1,000",4
+Territory,Puerto Rico,2014,Number,3408
+State,Wyoming,2014,"Rate per 1,000",7
+State,Wyoming,2014,Number,967
+State,Wisconsin,2014,Number,6751
+State,West Virginia,2014,Number,4512
+State,Washington,2014,Number,10258
+State,Virginia,2014,Number,4581
+State,Vermont,2014,Number,1092
+State,Utah,2014,Number,2758
+State,Texas,2014,Number,30158
+State,Tennessee,2014,Number,7496
+State,South Dakota,2014,Number,1159
+State,South Carolina,2014,Number,3452
+State,Rhode Island,2014,Number,1822
+State,Pennsylvania,2014,Number,13628
+State,Oregon,2014,Number,7290
+State,Oklahoma,2014,Number,11458
+State,Ohio,2014,Number,12506
+State,North Dakota,2014,Number,1342
+State,North Carolina,2014,Number,9567
+State,New York,2014,Number,19481
+State,New Mexico,2014,Number,2366
+State,New Jersey,2014,Number,7138
+State,New Hampshire,2014,Number,871
+State,Nevada,2014,Number,4532
+State,Nebraska,2014,Number,3732
+State,Montana,2014,Number,2336
+State,Missouri,2014,Number,11820
+State,Mississippi,2014,Number,4179
+State,Minnesota,2014,Number,6228
+State,Michigan,2014,Number,12619
+State,Massachusetts,2014,Number,9910
+State,Maryland,2014,Number,3868
+State,Maine,2014,Number,1860
+State,Louisiana,2014,Number,4325
+State,Kentucky,2014,Number,7481
+State,Kansas,2014,Number,6727
+State,Iowa,2014,Number,5920
+State,Indiana,2014,Number,13833
+State,Illinois,2014,Number,14988
+State,Idaho,2014,Number,1204
+State,Hawaii,2014,Number,1221
+State,Georgia,2014,Number,9005
+State,Florida,2014,Number,19709
+City,District of Columbia,2014,Number,828
+State,Delaware,2014,Number,611
+State,Connecticut,2014,Number,3444
+State,Colorado,2014,Number,4985
+State,California,2014,Number,53405
+State,Arkansas,2014,Number,3806
+State,Arizona,2014,Number,16246
+State,Alaska,2014,Number,2186
+State,Alabama,2014,Number,4438
+Nation,United States,2014,Number,396099
+Nation,United States,2016,Number,420360
+State,Alabama,2016,Number,4920
+State,Alaska,2016,Number,2810
+State,Arizona,2016,Number,17118
+State,Arkansas,2016,Number,4880
+State,California,2016,Number,51622
+State,Colorado,2016,Number,5116
+State,Connecticut,2016,Number,3555
+State,Delaware,2016,Number,763
+City,District of Columbia,2016,Number,788
+State,Florida,2016,Number,23804
+State,Georgia,2016,Number,12381
+State,Hawaii,2016,Number,1533
+State,Idaho,2016,Number,1516
+State,Illinois,2016,Number,14220
+State,Indiana,2016,Number,19373
+State,Iowa,2016,Number,6001
+State,Kansas,2016,Number,7267
+State,Kentucky,2016,Number,7795
+State,Louisiana,2016,Number,4457
+State,Maine,2016,Number,1829
+State,Maryland,2016,Number,3666
+State,Massachusetts,2016,Number,10881
+State,Michigan,2016,Number,11391
+State,Minnesota,2016,Number,8701
+State,Mississippi,2016,Number,5295
+State,Missouri,2016,Number,12391
+State,Montana,2016,Number,3357
+State,Nebraska,2016,Number,3817
+State,Nevada,2016,Number,4235
+State,New Hampshire,2016,Number,1199
+State,New Jersey,2016,Number,6527
+State,New Mexico,2016,Number,2610
+State,New York,2016,Number,17589
+State,North Carolina,2016,Number,10132
+State,North Dakota,2016,Number,1380
+State,Ohio,2016,Number,13716
+State,Oklahoma,2016,Number,10042
+State,Oregon,2016,Number,7508
+State,Pennsylvania,2016,Number,15236
+State,Rhode Island,2016,Number,1654
+State,South Carolina,2016,Number,3955
+State,South Dakota,2016,Number,1404
+State,Tennessee,2016,Number,8055
+State,Texas,2016,Number,30551
+State,Utah,2016,Number,2667
+State,Vermont,2016,Number,1292
+State,Virginia,2016,Number,4852
+State,Washington,2016,Number,10372
+State,West Virginia,2016,Number,5915
+State,Wisconsin,2016,Number,7233
+State,Wyoming,2016,Number,989
+State,Wyoming,2016,"Rate per 1,000",7
+Territory,Puerto Rico,2016,Number,2330
+Territory,Puerto Rico,2016,"Rate per 1,000",3
+State,Wisconsin,2016,"Rate per 1,000",6
+State,West Virginia,2016,"Rate per 1,000",16
+State,Washington,2016,"Rate per 1,000",6
+State,Virginia,2016,"Rate per 1,000",3
+State,Utah,2016,"Rate per 1,000",3
+State,Vermont,2016,"Rate per 1,000",11
+State,Texas,2016,"Rate per 1,000",4
+State,Tennessee,2016,"Rate per 1,000",5
+State,South Carolina,2016,"Rate per 1,000",4
+State,South Dakota,2016,"Rate per 1,000",7
+State,Rhode Island,2016,"Rate per 1,000",8
+State,Oregon,2016,"Rate per 1,000",9
+State,Pennsylvania,2016,"Rate per 1,000",6
+State,Oklahoma,2016,"Rate per 1,000",10
+State,Ohio,2016,"Rate per 1,000",5
+State,North Dakota,2016,"Rate per 1,000",8
+State,North Carolina,2016,"Rate per 1,000",4
+State,New York,2016,"Rate per 1,000",4
+State,New Mexico,2016,"Rate per 1,000",5
+State,New Jersey,2016,"Rate per 1,000",3
+State,Nevada,2016,"Rate per 1,000",6
+State,New Hampshire,2016,"Rate per 1,000",5
+State,Nebraska,2016,"Rate per 1,000",8
+State,Montana,2016,"Rate per 1,000",15
+State,Mississippi,2016,"Rate per 1,000",7
+State,Missouri,2016,"Rate per 1,000",9
+State,Minnesota,2016,"Rate per 1,000",7
+State,Massachusetts,2016,"Rate per 1,000",8
+State,Michigan,2016,"Rate per 1,000",5
+State,Maryland,2016,"Rate per 1,000",3
+State,Maine,2016,"Rate per 1,000",7
+State,Louisiana,2016,"Rate per 1,000",4
+State,Kentucky,2016,"Rate per 1,000",8
+State,Kansas,2016,"Rate per 1,000",10
+State,Iowa,2016,"Rate per 1,000",8
+State,Indiana,2016,"Rate per 1,000",12
+State,Idaho,2016,"Rate per 1,000",3
+State,Illinois,2016,"Rate per 1,000",5
+State,Hawaii,2016,"Rate per 1,000",5
+State,Georgia,2016,"Rate per 1,000",5
+City,District of Columbia,2016,"Rate per 1,000",7
+State,Florida,2016,"Rate per 1,000",6
+State,Delaware,2016,"Rate per 1,000",4
+State,Colorado,2016,"Rate per 1,000",4
+State,Connecticut,2016,"Rate per 1,000",5
+State,California,2016,"Rate per 1,000",6
+State,Arkansas,2016,"Rate per 1,000",7
+State,Arizona,2016,"Rate per 1,000",10
+State,Alaska,2016,"Rate per 1,000",15
+State,Alabama,2016,"Rate per 1,000",4
+Nation,United States,2016,"Rate per 1,000",6
+Nation,United States,2017,"Rate per 1,000",6
+State,Alabama,2017,"Rate per 1,000",5
+State,Alaska,2017,"Rate per 1,000",15
+State,Arizona,2017,"Rate per 1,000",9
+State,California,2017,"Rate per 1,000",5
+State,Arkansas,2017,"Rate per 1,000",7
+State,Colorado,2017,"Rate per 1,000",4
+State,Delaware,2017,"Rate per 1,000",4
+State,Connecticut,2017,"Rate per 1,000",5
+City,District of Columbia,2017,"Rate per 1,000",6
+State,Georgia,2017,"Rate per 1,000",5
+State,Florida,2017,"Rate per 1,000",6
+State,Hawaii,2017,"Rate per 1,000",5
+State,Illinois,2017,"Rate per 1,000",5
+State,Idaho,2017,"Rate per 1,000",4
+State,Indiana,2017,"Rate per 1,000",13
+State,Iowa,2017,"Rate per 1,000",8
+State,Kansas,2017,"Rate per 1,000",11
+State,Kentucky,2017,"Rate per 1,000",8
+State,Louisiana,2017,"Rate per 1,000",4
+State,Maryland,2017,"Rate per 1,000",3
+State,Maine,2017,"Rate per 1,000",6
+State,Massachusetts,2017,"Rate per 1,000",8
+State,Minnesota,2017,"Rate per 1,000",7
+State,Michigan,2017,"Rate per 1,000",5
+State,Mississippi,2017,"Rate per 1,000",7
+State,Montana,2017,"Rate per 1,000",17
+State,Missouri,2017,"Rate per 1,000",9
+State,Nebraska,2017,"Rate per 1,000",8
+State,New Hampshire,2017,"Rate per 1,000",6
+State,Nevada,2017,"Rate per 1,000",6
+State,New Jersey,2017,"Rate per 1,000",3
+State,New Mexico,2017,"Rate per 1,000",5
+State,New York,2017,"Rate per 1,000",4
+State,North Carolina,2017,"Rate per 1,000",5
+State,North Dakota,2017,"Rate per 1,000",8
+State,Oklahoma,2017,"Rate per 1,000",10
+State,Ohio,2017,"Rate per 1,000",6
+State,Oregon,2017,"Rate per 1,000",9
+State,Rhode Island,2017,"Rate per 1,000",9
+State,Pennsylvania,2017,"Rate per 1,000",6
+State,South Carolina,2017,"Rate per 1,000",4
+State,Tennessee,2017,"Rate per 1,000",5
+State,South Dakota,2017,"Rate per 1,000",7
+State,Texas,2017,"Rate per 1,000",4
+State,Vermont,2017,"Rate per 1,000",11
+State,Utah,2017,"Rate per 1,000",3
+State,Virginia,2017,"Rate per 1,000",2
+State,Washington,2017,"Rate per 1,000",7
+State,West Virginia,2017,"Rate per 1,000",18
+State,Wisconsin,2017,"Rate per 1,000",6
+Territory,Puerto Rico,2017,"Rate per 1,000",4
+Territory,Puerto Rico,2017,Number,2461
+State,Wyoming,2017,"Rate per 1,000",8
+State,Wyoming,2017,Number,1079
+State,Wisconsin,2017,Number,7707
+State,West Virginia,2017,Number,6571
+State,Washington,2017,Number,10727
+State,Virginia,2017,Number,4629
+State,Vermont,2017,Number,1241
+State,Utah,2017,Number,2778
+State,Texas,2017,Number,31972
+State,Tennessee,2017,Number,8166
+State,South Dakota,2017,Number,1603
+State,South Carolina,2017,Number,4037
+State,Rhode Island,2017,Number,1845
+State,Pennsylvania,2017,Number,16023
+State,Oregon,2017,Number,7855
+State,Oklahoma,2017,Number,9311
+State,Ohio,2017,Number,14954
+State,North Dakota,2017,Number,1460
+State,North Carolina,2017,Number,10533
+State,New York,2017,Number,16734
+State,New Mexico,2017,Number,2656
+State,New Jersey,2017,Number,5946
+State,New Hampshire,2017,Number,1443
+State,Nevada,2017,Number,4395
+State,Nebraska,2017,Number,3995
+State,Montana,2017,Number,3839
+State,Missouri,2017,Number,12376
+State,Mississippi,2017,Number,5264
+State,Minnesota,2017,Number,9566
+State,Michigan,2017,Number,11712
+State,Massachusetts,2017,Number,10881
+State,Maryland,2017,Number,3756
+State,Maine,2017,Number,1578
+State,Louisiana,2017,Number,4458
+State,Kentucky,2017,Number,8069
+State,Kansas,2017,Number,7706
+State,Iowa,2017,Number,5916
+State,Indiana,2017,Number,20415
+State,Illinois,2017,Number,14113
+State,Idaho,2017,Number,1592
+State,Hawaii,2017,Number,1523
+State,Georgia,2017,Number,13146
+State,Florida,2017,Number,24635
+City,District of Columbia,2017,Number,721
+State,Delaware,2017,Number,769
+State,Connecticut,2017,Number,3582
+State,Colorado,2017,Number,5129
+State,California,2017,Number,49209
+State,Arkansas,2017,Number,4776
+State,Arizona,2017,Number,15029
+State,Alaska,2017,Number,2746
+State,Alabama,2017,Number,5506
+Nation,United States,2017,Number,428133
+Nation,United States,2019,Number,413780
+State,Alabama,2019,Number,5683
+State,Alaska,2019,Number,2873
+State,Arizona,2019,Number,13330
+State,Arkansas,2019,Number,4126
+State,California,2019,Number,47424
+State,Colorado,2019,Number,4815
+State,Connecticut,2019,Number,3877
+State,Delaware,2019,Number,575
+City,District of Columbia,2019,Number,651
+State,Florida,2019,Number,23818
+State,Georgia,2019,Number,12867
+State,Hawaii,2019,Number,1602
+State,Idaho,2019,Number,1751
+State,Illinois,2019,Number,16606
+State,Indiana,2019,Number,16000
+State,Iowa,2019,Number,5922
+State,Kansas,2019,Number,8022
+State,Kentucky,2019,Number,9121
+State,Louisiana,2019,Number,3919
+State,Maine,2019,Number,2089
+State,Maryland,2019,Number,3709
+State,Massachusetts,2019,Number,9819
+State,Michigan,2019,Number,11423
+State,Minnesota,2019,Number,8269
+State,Mississippi,2019,Number,4007
+State,Missouri,2019,Number,12667
+State,Montana,2019,Number,3694
+State,Nebraska,2019,Number,3245
+State,Nevada,2019,Number,4521
+State,New Hampshire,2019,Number,1206
+State,New Jersey,2019,Number,4430
+State,New Mexico,2019,Number,2323
+State,New York,2019,Number,15603
+State,North Carolina,2019,Number,11035
+State,North Dakota,2019,Number,1472
+State,Ohio,2019,Number,15734
+State,Oklahoma,2019,Number,8305
+State,Oregon,2019,Number,6917
+State,Pennsylvania,2019,Number,14927
+State,Rhode Island,2019,Number,2198
+State,South Carolina,2019,Number,4504
+State,South Dakota,2019,Number,1706
+State,Tennessee,2019,Number,8886
+State,Texas,2019,Number,31227
+State,Utah,2019,Number,2335
+State,Vermont,2019,Number,1224
+State,Virginia,2019,Number,4768
+State,Washington,2019,Number,10134
+State,West Virginia,2019,Number,7216
+State,Wisconsin,2019,Number,7636
+State,Wyoming,2019,Number,985
+State,Wyoming,2019,"Rate per 1,000",7
+Territory,Puerto Rico,2019,Number,2584
+Territory,Puerto Rico,2019,"Rate per 1,000",5
+State,Wisconsin,2019,"Rate per 1,000",6
+State,West Virginia,2019,"Rate per 1,000",20
+State,Washington,2019,"Rate per 1,000",6
+State,Virginia,2019,"Rate per 1,000",3
+State,Utah,2019,"Rate per 1,000",3
+State,Vermont,2019,"Rate per 1,000",11
+State,Texas,2019,"Rate per 1,000",4
+State,South Dakota,2019,"Rate per 1,000",8
+State,Tennessee,2019,"Rate per 1,000",6
+State,South Carolina,2019,"Rate per 1,000",4
+State,Pennsylvania,2019,"Rate per 1,000",6
+State,Rhode Island,2019,"Rate per 1,000",11
+State,Oregon,2019,"Rate per 1,000",8
+State,Ohio,2019,"Rate per 1,000",6
+State,Oklahoma,2019,"Rate per 1,000",9
+State,North Dakota,2019,"Rate per 1,000",8
+State,North Carolina,2019,"Rate per 1,000",5
+State,New York,2019,"Rate per 1,000",4
+State,New Mexico,2019,"Rate per 1,000",5
+State,New Jersey,2019,"Rate per 1,000",2
+State,Nevada,2019,"Rate per 1,000",7
+State,New Hampshire,2019,"Rate per 1,000",5
+State,Nebraska,2019,"Rate per 1,000",7
+State,Missouri,2019,"Rate per 1,000",9
+State,Montana,2019,"Rate per 1,000",16
+State,Mississippi,2019,"Rate per 1,000",6
+State,Michigan,2019,"Rate per 1,000",5
+State,Minnesota,2019,"Rate per 1,000",6
+State,Massachusetts,2019,"Rate per 1,000",7
+State,Maine,2019,"Rate per 1,000",8
+State,Maryland,2019,"Rate per 1,000",3
+State,Louisiana,2019,"Rate per 1,000",4
+State,Kentucky,2019,"Rate per 1,000",9
+State,Kansas,2019,"Rate per 1,000",11
+State,Iowa,2019,"Rate per 1,000",8
+State,Indiana,2019,"Rate per 1,000",10
+State,Idaho,2019,"Rate per 1,000",4
+State,Illinois,2019,"Rate per 1,000",6
+State,Hawaii,2019,"Rate per 1,000",5
+State,Florida,2019,"Rate per 1,000",6
+State,Georgia,2019,"Rate per 1,000",5
+City,District of Columbia,2019,"Rate per 1,000",5
+State,Connecticut,2019,"Rate per 1,000",5
+State,Delaware,2019,"Rate per 1,000",3
+State,Colorado,2019,"Rate per 1,000",4
+State,Arkansas,2019,"Rate per 1,000",6
+State,California,2019,"Rate per 1,000",5
+State,Arizona,2019,"Rate per 1,000",8
+State,Alaska,2019,"Rate per 1,000",16
+State,Alabama,2019,"Rate per 1,000",5
+Nation,United States,2019,"Rate per 1,000",6
+Nation,United States,2021,"Rate per 1,000",5
+State,Alabama,2021,"Rate per 1,000",5
+State,Alaska,2021,"Rate per 1,000",16
+State,Arizona,2021,"Rate per 1,000",8
+State,California,2021,"Rate per 1,000",5
+State,Arkansas,2021,"Rate per 1,000",6
+State,Colorado,2021,"Rate per 1,000",3
+State,Delaware,2021,"Rate per 1,000",2
+State,Connecticut,2021,"Rate per 1,000",4
+City,District of Columbia,2021,"Rate per 1,000",4
+State,Georgia,2021,"Rate per 1,000",4
+State,Florida,2021,"Rate per 1,000",5
+State,Hawaii,2021,"Rate per 1,000",4
+State,Idaho,2021,"Rate per 1,000",3
+State,Indiana,2021,"Rate per 1,000",8
+State,Illinois,2021,"Rate per 1,000",7
+State,Iowa,2021,"Rate per 1,000",6
+State,Kansas,2021,"Rate per 1,000",10
+State,Kentucky,2021,"Rate per 1,000",8
+State,Louisiana,2021,"Rate per 1,000",3
+State,Maryland,2021,"Rate per 1,000",3
+State,Maine,2021,"Rate per 1,000",9
+State,Massachusetts,2021,"Rate per 1,000",7
+State,Minnesota,2021,"Rate per 1,000",5
+State,Michigan,2021,"Rate per 1,000",4
+State,Mississippi,2021,"Rate per 1,000",5
+State,Montana,2021,"Rate per 1,000",13
+State,Missouri,2021,"Rate per 1,000",10
+State,Nebraska,2021,"Rate per 1,000",7
+State,Nevada,2021,"Rate per 1,000",6
+State,New Jersey,2021,"Rate per 1,000",2
+State,New Hampshire,2021,"Rate per 1,000",4
+State,New Mexico,2021,"Rate per 1,000",4
+State,New York,2021,"Rate per 1,000",4
+State,North Carolina,2021,"Rate per 1,000",5
+State,North Dakota,2021,"Rate per 1,000",8
+State,Oklahoma,2021,"Rate per 1,000",8
+State,Ohio,2021,"Rate per 1,000",6
+State,Oregon,2021,"Rate per 1,000",6
+State,Rhode Island,2021,"Rate per 1,000",9
+State,Pennsylvania,2021,"Rate per 1,000",5
+State,South Carolina,2021,"Rate per 1,000",4
+State,Tennessee,2021,"Rate per 1,000",6
+State,South Dakota,2021,"Rate per 1,000",7
+State,Texas,2021,"Rate per 1,000",4
+State,Utah,2021,"Rate per 1,000",2
+State,Virginia,2021,"Rate per 1,000",2
+State,Vermont,2021,"Rate per 1,000",9
+State,Washington,2021,"Rate per 1,000",5
+State,West Virginia,2021,"Rate per 1,000",20
+State,Wisconsin,2021,"Rate per 1,000",5
+Territory,Puerto Rico,2021,Number,2036
+Territory,Puerto Rico,2021,"Rate per 1,000",4
+State,Wyoming,2021,"Rate per 1,000",6
+State,Wyoming,2021,Number,831
+State,Wisconsin,2021,Number,6762
+State,West Virginia,2021,Number,7092
+State,Washington,2021,Number,7919
+State,Virginia,2021,Number,4158
+State,Vermont,2021,Number,1031
+State,Utah,2021,Number,2002
+State,Texas,2021,Number,27871
+State,Tennessee,2021,Number,8753
+State,South Dakota,2021,Number,1647
+State,South Carolina,2021,Number,3933
+State,Rhode Island,2021,Number,1820
+State,Pennsylvania,2021,Number,13113
+State,Oregon,2021,Number,5198
+State,Oklahoma,2021,Number,7475
+State,Ohio,2021,Number,14550
+State,North Dakota,2021,Number,1463
+State,North Carolina,2021,Number,10927
+State,New York,2021,Number,14563
+State,New Mexico,2021,Number,1836
+State,New Jersey,2021,Number,3188
+State,New Hampshire,2021,Number,1058
+State,Nevada,2021,Number,4143
+State,Nebraska,2021,Number,3547
+State,Montana,2021,Number,3080
+State,Missouri,2021,Number,13178
+State,Mississippi,2021,Number,3403
+State,Minnesota,2021,Number,6705
+State,Michigan,2021,Number,9229
+State,Massachusetts,2021,Number,9160
+State,Maryland,2021,Number,3458
+State,Maine,2021,Number,2189
+State,Louisiana,2021,Number,3301
+State,Kentucky,2021,Number,8332
+State,Kansas,2021,Number,6994
+State,Iowa,2021,Number,4102
+State,Indiana,2021,Number,12967
+State,Illinois,2021,Number,19461
+State,Idaho,2021,Number,1589
+State,Hawaii,2021,Number,1311
+State,Georgia,2021,Number,10504
+State,Florida,2021,Number,22638
+City,District of Columbia,2021,Number,489
+State,Delaware,2021,Number,444
+State,Connecticut,2021,Number,2948
+State,Colorado,2021,Number,3864
+State,California,2021,Number,44356
+State,Arkansas,2021,Number,4515
+State,Arizona,2021,Number,13679
+State,Alaska,2021,Number,2820
+State,Alabama,2021,Number,5294
+Nation,United States,2021,Number,376926

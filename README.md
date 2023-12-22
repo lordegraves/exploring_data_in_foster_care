@@ -1,5 +1,4 @@
 # exploring_data_in_foster_care
-# exploring_data_in_foster_care
 #1. What is the sum/avg of children placed in fostercare per state?
 https://datacenter.aecf.org/data/tables/6247-children-in-foster-care-by-placement-type?loc=1&loct=2#detailed/2/2-53/false/2048,574,1729,37,871,870,573,869,36,868/2622,2621,2623,2620,2625,2624,2626/12994,12995 <--Rodney!!
 
