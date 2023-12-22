@@ -1,0 +1,63 @@
+﻿Table with row headers in column A and column headers in rows 3 through 4. (Leading dots indicate subparts),,,,,,,,,,,,,
+"Table 4. Percent Distribution of Household Net Worth, by Amount of Net Worth and States: 2020",,,,,,,,,,,,,
+State,Number of Households (thousands),Household Net Worth,,,,,,,,,,,
+,,Zero or Negative,"$1 to $24,999",,,,"$25,000 to $99,999",,,"$100,000 to $499,999",,,"$500,000 or over"
+,,Total,Total,"$1 to $4,999","$5,000 to $9,999","$10,000 to $24,999",Total,"$25,000 to $49,999","$50,000 to $99,999",Total,"$100,000 to $249,999","$250,000 to $499,999",Total
+Total,"131,500",12.9,17.2,7.8,3.3,6.1,14.8,6.4,8.4,28.9,15.4,13.5,26.1
+State,,,,,,,,,,,,,
+Alabama,"2,036",12.8,21.7,8.9,4.4,8.4,17.2,6.6,10.6,31.0,18.8,12.2,17.3
+Alaska,293,7.7,16.3,(D),(D),(D),25.9,(D),(D),28.1,(D),(D),22.0
+Arizona,"2,995",15.9,13.5,5.7,2.7,5.2,13.5,5.7,7.8,31.9,18.4,13.5,25.2
+Arkansas,"1,243",12.0,25.3,12.9,5.5,7.0,17.7,5.6,12.1,32.5,17.8,14.7,12.4
+California,"14,160",10.2,18.4,8.9,3.2,6.3,10.7,5.5,5.2,23.1,10.8,12.4,37.4
+Colorado,"2,389",14.0,13.1,6.9,1.7,4.5,14.5,4.9,9.6,24.5,11.5,13.0,33.8
+Connecticut,"1,350",11.3,11.2,(D),(D),(D),16.1,(D),(D),22.8,(D),(D),38.5
+Delaware,383,8.9,10.8,(D),(D),(D),12.3,(D),(D),43.5,(D),(D),24.5
+District of Columbia,344,16.9,14.8,(D),(D),(D),2.8,(D),(D),30.5,(D),(D),35.1
+Florida,"9,010",13.6,17.2,7.3,3.1,6.7,15.3,6.7,8.6,30.3,15.8,14.5,23.6
+Georgia,"4,156",17.2,17.8,6.2,4.2,7.4,18.2,7.6,10.6,31.0,16.8,14.2,15.8
+Hawaii,515,5.5,14.0,(D),(D),(D),11.9,(D),(D),23.6,(D),(D),45.0
+Idaho,691,11.7,15.7,6.0,3.1,6.6,10.0,3.6,6.4,29.9,13.6,16.3,32.7
+Illinois,"5,029",15.8,13.9,6.5,2.2,5.2,15.7,9.1,6.6,33.3,17.5,15.8,21.3
+Indiana,"2,830",16.9,17.6,9.1,3.5,5.0,16.2,8.5,7.7,31.8,20.5,11.3,17.4
+Iowa,"1,349",15.2,15.7,7.5,5.2,3.0,10.6,5.3,5.4,27.6,14.9,12.7,31.0
+Kansas,"1,243",6.8,18.2,10.2,2.3,5.7,21.6,8.9,12.7,34.1,19.6,14.5,19.3
+Kentucky,"1,889",15.8,24.4,11.6,4.1,8.7,18.0,6.0,11.9,27.7,17.9,9.8,14.1
+Louisiana,"1,874",14.2,19.2,8.3,4.3,6.6,18.7,8.8,10.0,32.8,16.3,16.6,15.0
+Maine,629,12.8,14.9,(D),(D),(D),24.7,(D),(D),27.9,(D),(D),19.6
+Maryland,"2,394",12.4,10.2,4.9,0.9,4.4,15.1,6.5,8.7,29.7,13.3,16.5,32.5
+Massachusetts,"2,869",9.5,13.5,9.1,1.1,3.3,10.0,4.0,6.0,29.2,14.2,15.0,37.8
+Michigan,"4,185",12.9,15.3,6.5,3.6,5.1,16.2,6.5,9.6,32.1,17.6,14.5,23.5
+Minnesota,"2,335",7.7,11.4,4.9,2.6,3.8,10.1,4.0,6.0,36.5,18.8,17.7,34.3
+Mississippi,"1,257",16.2,23.4,11.7,3.8,7.9,19.9,7.5,12.5,30.4,17.7,12.8,10.1
+Missouri,"2,568",13.2,22.2,7.3,3.7,11.2,17.4,6.7,10.8,29.9,18.5,11.4,17.3
+Montana,484,11.8,18.2,10.1,3.0,5.2,8.6,4.5,4.2,28.9,19.1,9.8,32.4
+Nebraska,854,18.9,20.4,9.3,7.5,3.6,15.8,6.4,9.4,27.8,16.2,11.5,17.1
+Nevada,"1,223",15.6,19.9,9.0,2.3,8.7,16.6,8.0,8.6,24.8,13.5,11.3,23.1
+New Hampshire,559,9.9,16.0,(D),(D),(D),14.9,(D),(D),25.9,(D),(D),33.3
+New Jersey,"3,426",9.2,13.5,7.1,2.6,3.8,15.0,6.0,9.0,29.0,9.9,19.2,33.3
+New Mexico,849,13.3,18.2,(D),(D),(D),16.7,(D),(D),31.9,(D),(D),19.8
+New York,"7,693",13.9,18.0,8.5,3.8,5.8,12.1,6.7,5.4,26.2,13.4,12.9,29.7
+North Carolina,"4,407",13.2,18.9,7.2,5.8,5.9,13.3,4.5,8.8,31.2,16.4,14.7,23.4
+North Dakota,303,4.3,12.1,(D),(D),(D),24.2,(D),(D),23.3,(D),(D),36.1
+Ohio,"4,821",14.9,20.2,7.8,4.5,8.0,13.9,5.2,8.7,31.7,17.2,14.5,19.3
+Oklahoma,"1,598",16.6,18.9,7.6,2.5,8.8,16.7,7.2,9.6,25.8,15.8,9.9,22.0
+Oregon,"1,622",7.7,14.0,4.0,3.9,6.0,12.6,6.7,5.9,29.5,11.5,18.0,36.1
+Pennsylvania,"5,248",13.2,15.1,8.3,2.4,4.4,13.3,4.2,9.1,29.7,16.7,13.0,28.8
+Rhode Island,458,12.5,18.0,2.6,4.9,10.5,18.5,6.7,11.7,22.3,9.5,12.7,28.8
+South Carolina,"2,156",14.1,17.7,7.5,4.3,5.9,17.9,7.1,10.8,30.1,17.9,12.2,20.1
+South Dakota,338,13.7,20.8,(D),(D),(D),11.1,(D),(D),24.2,(D),(D),30.2
+Tennessee,"2,872",16.8,20.0,10.9,2.9,6.2,18.5,8.4,10.1,27.6,16.3,11.3,17.1
+Texas,"11,180",11.8,21.3,9.5,4.7,7.1,17.9,7.5,10.4,28.4,17.0,11.4,20.7
+Utah,"1,152",10.5,14.6,5.5,4.1,5.0,14.0,5.7,8.2,33.2,15.0,18.2,27.7
+Vermont,254,10.4,6.1,(D),(D),(D),20.1,(D),(D),35.0,(D),(D),28.4
+Virginia,"3,386",12.7,13.4,6.3,2.8,4.3,15.2,5.0,10.2,25.9,14.9,11.0,32.9
+Washington,"3,144",10.0,15.2,6.3,2.7,6.2,12.2,5.6,6.6,26.8,13.6,13.2,35.7
+West Virginia,703,11.5,20.3,9.1,3.6,7.5,20.5,7.8,12.8,31.7,20.1,11.5,16.0
+Wisconsin,"2,516",16.1,12.8,6.6,1.8,4.4,16.3,6.1,10.1,28.4,16.3,12.0,26.5
+Wyoming,281,14.5,6.5,(D),(D),(D),11.4,(D),(D),40.4,(D),(D),27.3
+,,,,,,,,,,,,,
+"NOTE: Sample excludes group quarters and households in which the household reference person was either living outside the United States in December, living in institutionalized group quarters in December, or was living in a non-permanent accommodation in December. Number of households has been rounded to four significant digits. (D) - Cell suppressed due to a small number of observations. The Census Bureau's Statistical Quality Standards indicate that serious data quality issues related to sampling error occur when the estimated coefficients of variation (defined as a standard error divided by its point estimate) for the majority of the key estimates are larger than 0.3. While this table package meets the Statistical Quality Standards, use caution with estimates having coefficients of variation larger than 0.3 in absolute value as they may suffer from data quality issues. Standard errors for point estimates in this table are in Table 4A. The estimates in this table are based on responses from a sample of the population and may differ from the actual values because of sampling variability and other factors. As a result, apparent differences between the estimates for two or more groups may not be statistically significant. For information on sampling and nonsampling error see: https://www.census.gov/programs-surveys/sipp/methodology/sampling.html. For technical documentation and more information about SIPP data quality, please visit the SIPP Technical Documentation page at https://www.census.gov/programs-surveys/sipp/tech-documentation.html.",,,,,,,,,,,,,
+"Source: U.S. Census Bureau, Survey of Income and Program Participation, Survey Year 2021, Public Use Data",,,,,,,,,,,,,
+Internet Release Date: 08/31/2022,,,,,,,,,,,,,
+,,,,,,,,,,,,,
