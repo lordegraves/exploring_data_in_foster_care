@@ -47,6 +47,12 @@ jupyter notebook
    - Conduct exploratory analysis and visualize key metrics.
 5. Use the resulting summaries and visualizations to gain insights into foster care demographics, placements, and time in care.
 
+## Data Sources
+- [Children Ages Birth to 17 in Foster Care](https://datacenter.aecf.org/data/tables/6242-children-ages-birth-to-17-in-foster-care?loc=1&loct=2#detailed/2/2-53/false/2048,574,1729,37,871,870,573,869,36,868/any/12985,20455)
+- [Median Family Income Among Households with Children by Family Nativity](https://datacenter.aecf.org/data/tables/123-median-family-income-among-households-with-children-by-family-nativity?loc=1&loct=1#detailed/1/any/false/2048,1729,37,871,870,573,869,36,868,867/78,79/461)
+- [Youth in Foster Care Who Graduated High School On Time](https://datacenter.aecf.org/data/tables/10439-youth-in-foster-care-who-graduated-high-school-on-time#detailed/2/any/false/1095,2048,574,1729,37,871/217,757,107,133,172,4/20134)
+- U.S. Department of Health & Human Services, Administration for Children and Families, Adoption and Foster Care Analysis and Reporting System (AFCARS).
+
 ## Acknowledgements
 - Foster care datasets were provided as part of an educational assignment.
 - Special thanks to instructional staff for guidance on data cleaning and visualization best practices.
